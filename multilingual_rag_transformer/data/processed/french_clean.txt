@@ -1,0 +1,1526 @@
+Diagnostic and  Interventional  Imaging  102  2021  199211
+Guidelines Thoracic  imaging
+Intergroupe  francophone  de  cancerologie  thoracique  Societe  de
+pneumologie
+ de  langue  franc    aise  and  Societe  dimagerie  thoracique
+statement
+ paper  on  lung  cancer  screening
+Sebastien  Couraudab  Gilbert  Ferrettic  Bernard  Milleronb  Alexis  Cortotd
+Nicolas Girarde  Valerie  Gounantf  Franc    ois  Laurentg  Olivier  Leleuh  Elisabeth  Quoixi
+Marie-Pierre Reveljk Marie Wislezkl Virginie Westeelm  Gerard  Zalcmanfk
+Arnaud
+ Scherpereeld  Antoine  Khalilkn
+aAcute  Respiratory  Disease  and  Thoracic  Oncology  Department  Hopital  Lyon  Sud  Hospices  Civils  de  Lyon  69310  Pierre-Benite  France
+bIntergroupe  Francophone  de  Cancerologie  Thoracique  75009  Paris  France
+cDepartment  of  Diagnostic  and  Interventional  Radiology  CHU  Grenoble  Alpes  38700  La  Tronche  France
+dDepartment  of  Pneumology  and  Thoracic  Oncology  CHU  Lille  59000  Lille  France
+eDepartment  of  Thoracic  Oncology  Institut  Curie  75005  Paris  France
+fDepartment of  Thoracic  Oncology  Groupe  Hospitalier  BichatClaude-Bernard  Assistance  publiqueHopitaux  de  Paris  75018  Paris  France
+gDepartment  of  Radiology  CHU  Bordeaux  33000  Bordeaux  France
+hDepartment  of  Pneumology  CH  Abbeville  80100  Abbeville  France
+iDepartment  of  Pneumology  CHRU  Strasbourg  67200  Strasbourg  France
+jDepartment  of  Radiology  Hopital  Cochin  Assistance  PubliqueHopitaux  de  Paris  75014  Paris  France
+kUniversite de  Paris  F-75006  Paris  France
+lDepartment  of  Thoracic  Oncology  Hopital  Cochin  Assistance  PubliqueHopitaux  de  Paris  75014  Paris  France
+mDepartment  of  Thoracic  Oncology  CHU  de  Besanc    on  25000  Besanc    on  France
+nDepartment  of  Radiology  Groupe  Hospitalier  BichatClaude-Bernard  Assistance  publiqueHopitaux  de  Paris  75018  Paris  France
+a  r  t  i  c  l  e  i  n  f  o
+Keywords
+Lung
+ neoplasm
+Early
+ detection  of  cancer
+Multi-detector
+ computed  tomography
+Solitary
+ pulmonary nodule
+Multiple pulmonary  nodulesa  b  s  t  r  a  c  t
+Following  the  American  National  Lung  Screening  Trial  results  in  2011  a  consortium  of  French  experts  met
+to edit a statement Recent results  of  other  randomized  trials  gave  the  opportunity  for  our  group  to  meet
+again  in  order  to  edit  updated  guidelines  After  literature  review  we  provide  here  a  new  update  on  lung
+cancer screening in France Notably  in  accordance  with  all  international  guidelines  the  experts  renew
+their  recommendation  in  favor  of  individual  screening  for  lung  cancer  in  France  as  per  the  conditions
+laid out  in  this  document  In  addition  the  experts  recommend  the  very  rapid  organization  and  funding  of
+prospective studies  which  if  conclusive  will  enable  the  deployment  of  lung  cancer  screening  organized
+at the  national  level
+  2021  Published  by  Elsevier  Masson  SAS  on  behalf  of  Soci et e  franc    aise  de  radiologie
+Abbreviation
+18F-FDG18F-Fluoro-desoxy-glucose
+ACRIN  American  College  of  Radiology  Imaging  Network
+BTS  British  Thoracic  Society
+CAD  computer-assisted  decision
+CI  Confidence  interval
+Corresponding author  at  Acute  Respiratory  Disease  and  Thoracic  Oncology
+Department
+ Hopital  Lyon  Sud  Hospices  Civils  de  Lyon  69310  Pierre-Benite  France
+E-mail address  sebastiencouraudchu-lyonfr  S  CouraudCOPD Chronic  obstructive  pulmonary  disease
+CT  Computed  tomography
+CTDI  CT  dose  index
+DANTE  Detection  And  screening  of  early  lung  cancer  with  Novel
+imaging  TEchnology  and  molecular  assays
+DEP  KP80  Depistage  du  Cancer  du  Poumon  dans  la  Somme
+DICOM  Digital  Imaging  and  Communications  in  Medicine
+DLCST  Danish  Lung  Cancer  Screening  Trial
+DLP  Dose-length  product  ERS  European  Respiratory  Society
+ESR  European  Society  of  Radiology
+GOLF  Groupe  doncologie  de  langue  franc    aise
+GGO  Ground-glass  opacity
+HAS  Haute  Autorite  de  Sante
+
+2211-5684 2021  Published  by  Elsevier  Masson  SAS  on  behalf  of  Soci et e  franc    aise  de  radiologieS  Couraud  G  Ferretti  B  Milleron  et  al  Diagnostic  and  Interventional  Imaging  102  2021  199211
+IFCT  Intergroupe  Francophone  de  Cancerologie  Thoracique
+IRSN  Institut  de  Radioprotection  et  de  Surete  Nucleaire
+JECS  Japanese  randomized  trial  for  evaluating  the  efficacy  of
+low-dose  thoracic  CT  Screening  for  lung  cancer  in  non-
+smokers  and  smokers
+LDCT  Low-dose  computed  tomography
+LLPv2  Liverpool  Lung  Project  version  2
+LungRADS  Lung  CT  Screening  Reporting    Data  System
+MDT  Multidisciplinary  team
+MILD  Multicentric  Italian  Lung  Detection
+NCCN  National  Cancer  Centers  Network
+NELSON  NederlandsLeuvens  Longkanker  Screenings  Onderzoek
+NLST  National  Lung  Screening  Trial
+PET-CT  Positron  emission  tomography-computed  tomography
+PLCOm2012  Prostate  Lung  Colon  Ovary  model  2012
+PPV  Positive  predictive  value
+PY  Pack-year
+SFR  Societe franc   aise  de  radiologie
+SIT  Societe  dimagerie  thoracique
+SPLF Societe de  pneumologie  de  langue  franc    aise
+UKLS  United  Kingdom  Lung  Screening
+VDT Volume doubling  time
+1 Introduction
+Bronchopulmonary cancer  lung  cancer  hereafter  is  the  lead-
+ing  cause  of  cancer  death  worldwide  with  no  exception  for  France
+where  it  was  the  cause  of  around  33000  deaths  in  2018  1  The
+diseases  incidence  has  stabilized  in  men  but  it  is  rising  rapidly
+in  women  53  per  year  Lung  cancers  are  usually  detected  at
+advanced  stages  68  of  newly-diagnosed  patients  2  and  despite
+current  advances  in  therapy  the  pathologys  five-year  survival  rate
+in  those  stages  does  not  exceed  15  34   However  when  diag-
+nosed at  stage  I  and  with  surgical  resection  possible  the  ten-year
+survival  rate  of  lung  cancer  exceeds  80  56 
+Chest  X-ray  sputum  cytology  bronchoscopy  and
+18F-Fluoro-desoxy-glucose  18F-FDG  positron  emission
+tomography-computed  tomography  PET-CT  are  ineffective
+for  lung  cancer  screening  710   By  contrast  low-dose  computed
+tomography  LDCT  has  been  or  is  being  studied  in  ten  randomized
+trials  11  Fig  1  Among  them  however  only  two  have  sufficiently
+large  enrollments  to  detect  a  possible  difference  in  lung  cancer
+mortality  with  sufficient  statistical  power  the  American  National
+Lung  Screening  Trial  NLST  with  90  power  to  detect  a    20
+difference  in  mortality  and  the  Dutch-Belgian  NELSON  trial  with
+80  power  to  detect  a  25  difference  in  male  patients  1213 
+Following  the  positive  results  of  the  NLST  published  in  2011
+12  a  French  multidisciplinary  group  of  specialists  with  members
+from  the  Intergroupe  francophone  de  cancerologie  thoracique  IFCT
+French  Cooperative  Thoracic  Intergroup  the  Societe  dimagerie  tho-
+racique  SIT  Thoracic  Imaging  Society  representing  the  Societe
+franc    aise  de  radiologie  SFR  French  Society  of  Radiology  and  the
+Groupe  doncologie  de  langue  franc    aise  GOLF  Francophone  Oncol-
+ogy  Group  representing  the  Societe  de  pneumologie  de  langue
+franc    aise  SPLF  Francophone  Pulmonology  Society  had  made  a
+number  of  propositions  for  individual  ie  physician-to-patient
+recommendation  lung  cancer  screening  1415   Six  years  later
+this  group  decided  to  update  the  previous  statement  following  the
+communication  of  the  NELSON  trial  positive  results  16
+2 Methods
+A  national  group  of  experts  has  been  established  upon  a  call
+for  expression  of  interest  by  IFCT  SIT  and  GOLF  as  well  as  all
+experts who participated  in  the  initial  multidisciplinary  taskforce
+were  also  systematically  reconvened  14  Upstream  of  the  newmeeting  a  number  of  questions  presented  as  section  headings
+below  were  isolated  and  distributed  to  pairs  of  experts  for  consid-
+eration  Those  expert  pairs  were  supplied  with  the  previous  texts
+developed  for  the  preceding  recommendations  15  Thereafter
+all  the  contributors  were  gathered  for  a  workshop  held  7th8th
+November  2018  There  the  expert  pairs  presented  their  proposi-
+tions  which  were  directly  discussed  and  corrected  until  obligatory
+consensus  was  reached  After  the  workshop  the  rationales  of  cer-
+tain  passages  were  reworked  when  needed  andor  in  the  presence
+of  new  data  by  the  expert  pairs  The  final  version  of  the  text  was
+fully  approved  by  all  authors  then  all  contributors  The  level  of  evi-
+dence  of  the  groups  recommendations  was  graded  as  per  the  scale
+of  the  Haute  Autorite  de  Sante  HAS  French  National  Authority  for
+Health  Table  1
+3  Should  lung  cancer  screening  be  proposed  in  France
+In  2012  the  group  of  experts  stated  its  support  for  individ-
+ual lung cancer screening in  precise  settings  and  with  particular
+eligibility criteria  based  on  the  results  of  the  NLST  1214   This
+latter involved 53454 high-risk patients  aged  55  to  74  years  with
+a   30  pack-year  PY  smoking  history  and  who  had  not  quit  smok-
+ing more than 15 years  prior  All  were  randomly  assigned  to  three
+years of  yearly  screening  by  PA  chest  X-ray  or  LDCT  12  The  NLSTs
+results showed a  significant  20  reduction  95  confidence  inter-
+val  CI  68267  P    0004  in  lung  cancer-related  mortality  and
+a 67 reduction  95  CI  12136  P    0020  in  all-cause  mortal-
+ity  in  the  patients  screened  by  LDCT  compared  to  those  screened
+by  chest  X-ray  Results  from  other  trials  on  LDCT  screening  have
+since  been  reported  Fig  1  The  randomized  DLCST  trial  found
+no  improvement  in  cancer-related  death  but  it  had  several  lim-
+its  affecting  that  endpoint  First  the  trial  was  not  conceived  to
+demonstrate  a  reduction  in  specific  mortality  but  to  be  grouped
+for  analysis  with  the  NELSON  trial  an  aspect  that  explains  the  rela-
+tively  modest  enrollment  for  DLCST  Also  it  reported  early  results
+with  a  median  follow-up  of  only  five  years  17  Similarly  the  ten-
+year  results  reported  from  the  ITALUNG  trial  were  also  negative
+but  they  too  suffered  from  limited  statistical  power  18  Pooled
+results from  the  Italian  DANTE  and  MILD  trials  after  a  median  eight
+years  of  follow-up  were  published  in  2017  and  showed  no  signifi-
+cant  mortality  benefit  for  LDCT  at  that  amount  of  surveillance  19
+However  the  authors  of  the  MILD  trial  recently  provided  a  new
+report  on  their  results  at  ten  years  of  follow-up  for  their  cohort
+20  Although  the  MILD  trial  was  not  designed  to  detect  a  differ-
+ence  in  mortality  but  to  evaluate  annual  or  biennial  screening  its
+results  did  show  a  significant  39  reduction  in  lung  cancer-related
+mortality  in  the  patients  who  had  LDCT  screening  annual  and  bien-
+nial  grouped  compared  to  those  who  had  no  intervention  Also
+recently  the  results  of  the  German  LUSI  trial  were  reported  with
+a  median  follow-up  of  88  years  Here  too  the  study  cohort  was
+too  small  to  ensure  sufficient  power  for  the  detection  of  a  sig-
+nificant  difference  in  specific  mortality  Nonetheless  the  authors
+did  report  a  26  reduction  074  95  CI  046119  P    021  in
+cancer-related  mortality  for  patients  who  had  LDCT  screening  vs
+X-ray  Furthermore  that  difference  significantly  benefited  women
+HR    031  95  CI  010096  P    004  21  Finally  and  particu-
+larly  the  eleven-year  results  of  the  NELSON  trial  were  recently
+published  16  These  results  were  eagerly  awaited  as  their  sta-
+tistical  power  was  sufficient  for  detecting  a  change  in  lung  cancer
+mortality  in  men  initially  planned  in  association  with  the  Dan-
+ish  DLCST  study  The  inclusion  criteria  of  the  NELSON  study  20
+were different  from  those  of  the  NLST  especially  the  lower  age
+limit  50  years  The  NELSON  study  also  had  a  different  screening
+schedule with  CTs  at  baseline  detection  of  prevalent  nodules
+one  year  three  years  and  optionally  five  and  a  half  years  It  also
+200S  Couraud  G  Ferretti  B  Milleron  et  al  Diagnostic  and  Interventional  Imaging  102  2021  199211
+Fig  1  Randomized  trials  on  low-dose  computed  tomography  for  lung  cancer  screening
+Table  1
+Employed
+ recommendations  grading  Haute  Autorite  de  sante  HAS  French  National
+Authority
+ for  Health
+A Established scientific  evidence
+Founded on  strong  evidence  level  1  randomized
+controlled
+ trials  RCTs  with  high  statistical  power  and  no
+major
+ biases  or  meta-analyses  of  RCTs  decision  analysis
+based
+ on  well-designed  studies
+B Scientific presumption
+Founded
+ on  intermediate  evidence  level  2  RCTs  with
+lesser
+ statistical  power  well-designed  non-randomized
+studies
+ cohort  studies
+C Low
+ scientific  evidence
+Founded
+ on  lower  levels  of  evidence  case  control  studies
+level
+ 3  retrospective  studies  case  series  studies
+comparative
+ studies with important biases level  4
+AE Expert  agreement
+In
+ the  absence  of  studies  recommendations  are  founded
+on
+ consensus  among  the  expert  work  group  members
+after
+ consultation  with  the  reading  group  The  absence  of
+grading
+ does  not  imply  a  lack  of  pertinence  or  utility  but  it
+must
+ lead  to  a  commitment  for  complementary  studies
+differed  fundamentally  from  the  NLST  in  positive  screen  manage-
+ment  based  on  nodule  volume  and  evolution  at  three  months  in
+patients with  50  to  500  mm3nodules  The  NELSON  study  provided
+positive  results  at  11  years  of  follow-up  even  without  the  initially-
+planned  grouped  analyses  of  data  from  other  studies  Indeed  after
+eight  years  of  follow-up  it  showed  significant  reductions  in  lung
+cancer  mortality  of  about  25  in  men  and  about  40  to  60  in  women
+16  As  of  this  writing  the  UKLS  and  JECS  studies  have  not  yet
+provided  consolidated  results
+There  are  also  a  number  of  French  studies  on  the  interest  of  lung
+cancer  screening  One  modeling  study  crossed  demographic  infor-
+mation  on  the  French  population  with  data  published  upstream  of
+the  NELSON  study  results  Using  first  the  strict  NLST  criteria  then
+those  criteria  with  the  NELSONs  50-year  age  threshold  the  authors
+of  that  modeling  study  reported  screening-eligible  populations  of
+respectively  1650  and  2283  people  According  to  that  study  the  costof  screening  could  be  covered  by  a  modest  10-cent  D  pack  price
+increase  for  cigarettes  22  A  prospective  cohort  study  DEP  KP80
+was  carried  out  in  the  French  administrative  department  of  the
+Somme  23  Using  the  inclusion  criteria  of  NLST  and  a  decisional
+algorithm  adapted  from  NELSON  its  baseline  results  showed  the
+feasibility  and  effectiveness  of  a  yearly  LDCT  lung  cancer  screening
+program  DEP  KP80  recruited  1307  patients  in  two  and  a  half  years
+and  reported  a  participation  rate  of  73  and  a  positive  screening
+rate  of  57  Of  these  positive  screenings  45  were  confirmed  can-
+cer  n    24  and  of  these  latter  75  were  detected  at  early  stages  0
+to  II
+The  authors  of  DEP  KP80  considered  their  results  sufficient  to
+justify  the  implementation  of  screening  in  France  the  first  step
+of  which  would  be  the  deployment  of  large-scale  testing  in  pilot
+regions
+1  The  two  randomized  studies  with  patient  enrollments  con-
+ferring  sufficient  statistical  power  satisfactorily  demonstrated
+the ability  of  LDCT  screening  to  significantly  reduce  lung
+cancer-specific mortality  Thus  in  accordance  with  all  inter-
+national guidelines the  experts  renew  their  recommendation
+in favor  of  individual  screening  for  lung  cancer  in  France  as
+per  the  conditions  laid  out  in  this  document  grade  A  Here
+we  defined  individual  screening  as  the  systematic  proposal
+of  screening  as  described  in  this  document  by  a  physician
+to  an  eligible  patient  independent  of  any  possible  national
+programs2 Considering  the  rarity  of  data  on  the  feasibility  of  LDCT
+screening  for  lung  cancer  in  France  the  experts  recommend
+the very  rapid  organization  and  funding  of  prospective  studies
+which if  conclusive  will  enable  the  deployment  of  lung  cancer
+screening organized  at  the  national  level  grade  AE
+3  Lung  cancer  screening  should  be  carried  out  using  low-dose
+non-contrast-enhanced  computed  tomography  grade  A
+201S  Couraud  G  Ferretti  B  Milleron  et  al  Diagnostic  and  Interventional  Imaging  102  2021  199211
+4  To  whom  should  individual  lung  cancer  screening  be
+proposed
+The  work  group  expressed  their  opinion  that  screening  should
+be  proposed  only  to  patients  whose  characteristics  would  have
+made  them  eligible  for  the  NLST  or  NELSON  study  Fig  1  and
+Table 2  1424   Consequently  screening  should  be  proposed  to
+all  patients  aged  50  to  74  years  with  a  history  of  current  or  for-
+mer  quit    10  years  prior  smoking  counting    15  cigarettesday
+for    25  years  or    10  cigarettesday  for    30  years
+In  the  NLST  and  NELSON  study  the  upper  age  limit  for  screening
+was  74  years  The  United  States  Preventive  Services  Task  Force  rec-
+ommends  screening  up  to  the  age  of  80  years  based  on  modeling
+studies  using the NLST  contributively  and  performed  on  cohorts
+of  American smokers  25  In  the  absence  of  prospective  Euro-
+pean  data  the  work  group  decided  to  maintain  the  upper  limit  of
+screening  initiation  to  74  years  and  proposed  additional  research
+on  advanced  age  groups
+In  the  NLST  patients  who  had  quit  smoking  within  the  preced-
+ing  15  years  were  eligible  for  enrollment  In  the  NELSON  trial  that
+interval  was  limited  to  10  years  The  present  expert  group  considers
+that  patients  eligible  for  screening  on  all  other  criteria  and  having
+quit  smoking    10  prior  or  optionally    15  years  prior  may  benefit
+from  screening
+A  number  of  teams  have  studied  the  contribution  of  risk  model-
+ing  which  integrates  novel  variables  to  optimize  the  identification
+of  screening  candidates  Risk  scores  are  conceived  to  improve
+screening  performance  with  such  goals  as  for  example  reduc-
+ing  the  number  of  individuals  to  screen  to  detect  one  cancer  or
+prevent  one  death  26  These  scores  often  built  upon  clinical
+andor  radiological  data  do  appear  pertinent  2729   but  none
+have  been  compared  in  prospective  randomized  trials  In  the  UKLS
+trial  the  LLPv2  Liverpool  Lung  Project   score  was  not  a  random-
+ization  but  an  inclusion  criterion  Of  all  the  randomized  trials  the
+UKLS  trial  identified  the  highest  proportion  of  stage  I  or  II  lung  can-
+cers  The  PLCOm2012  score  was  used  to  select  eligible  patients  in
+the  prospective  PanCan  trial  In  its  cohort  the  cumulative  incidence
+rate  for  cancer  was  significantly  higher  than  that  of  NLST  with  fur-
+thermore  a  higher  proportion  of  stage  III  cancers  77  vs  57
+P    0001  For  other  lung  cancer  risk  factors  professional  or  envi-
+ronmental  carcinogen  exposure  rare  hereditary  predispositions
+comorbidities  there  are  currently  insufficient  data  in  the  literature
+to  propose  specific  recommendations
+All  patients  who  accept  screening  must  do  so  voluntarily  after
+having  received  complete  information  on  the  possible  benefits  and
+risks  see  below  They  may  need  time  to  reflect  on  whether  to
+accept  screening  Current  smokers  must  be  strongly  encouraged  to
+join  a  smoking  cessation  program  and  oriented  toward  profession-
+als  andor  institutions  specialized  in  smoking  cessation  in  France
+   Encouraging  the  patient  to  stop
+smoking  must  be  systematically  repeated  at  ever  screening  visit
+and smoking  cessation  counseling  formally  integrated  in  the  pro-
+cess  30  No  particular  cessation  strategy  has  demonstrated  its
+superiority  over  any  other  3133 
+Patients  who  have  developed  symptoms  or  signs  suggestive  of
+lung  cancer  hemoptysis  weight  loss    10  of  normal  weight  andor
+lung  infection  in  the  preceding  year  must  undergo  immediate
+diagnostic  work-ups  they  are  thus  not  candidates  for  screening
+Also  screening  should  not  be  proposed  to  patients  meeting  NELSON
+andor  NLST  exclusion  criteria  Table  2  including  severe  comor-
+bidities  contraindicating  invasive  thoracic  procedures  and  thus  any
+surgical  treatments  LDCT  screening  is  not  a  substitute  for  diagnos-
+tic  examinations  when  respiratory  disease  is  suspected  Finally
+patients  with  a  history  of  cancer  are  to  be  placed  under  specific
+surveillance  and  thus  the  work  group  does  not  recommend  includ-
+ing  them  in  individual  lung  cancer  screening  procedures4  Individual  LDCT  screening  for  lung  cancer  should  be  thor-
+oughly explained  informed  consent  and  proposed  to  all
+patients aged    50  years  who  have  a  current  or  recent  past
+cessation  within the preceding  10  years  history  of  smok-
+ing   15  cigarettesday  for    25  years  OR    10  cigarettesday
+for    30  years  and  who  do  not  meet  exclusion  criteria  Entry
+into  a  screening  program  may  be  proposed  to  patients  up  to
+74  years  of  age  grade  A
+5  Ex-smokers  who  meet  the  above  criteria  but  quit  smok-
+ing   10 but   15  years  prior  may  be  proposed  screening  as  an
+option grade  AE
+6  Patients  who  have  a  history  of  cancer  present  clinical  signs
+suggesting  cancer  recently  underwent  a  thoracic  CT  for  other
+reasons  or  present  one  or  several  severe  comorbidities  con-
+traindicating invasive thoracic procedures are ineligible for
+LDCT
+ screening  grade  A
+5  What  is  the  optimal  duration  of  screening
+There  are  few  prospective  data  available  on  the  optimal  dura-
+tion  of  lung  cancer  screening  in  at-risk  patients  The  cohort  from
+the  ELCAP  study  was  compared  to  that  of  another  study  CARET
+not  involving  screening  The  comparison  clearly  showed  that  inter-
+rupting  screening  was  associated  with  an  increase  in  the  rate  of  lung
+cancer-related  death  34  Complementarily  Veronesi  et  al  showed
+that  the  rate  of  lung  cancer  detection  remained  stable  across  a  long
+duration  of  yearly  LDCT  screening  3536 
+Other  elements  also  argue  in  favor  of  regular  screening  for
+lung  cancer  such  as  its  comparability  with  other  cancer  screen-
+ing programs  the  theoretical  need  for  continuous  screening  or  the
+consistent  cancer  detection  rates  observed  in  all  three  of  the  NLSTs
+annual  screenings  respectively  1  07  and  09  12  The  persis-
+tence  of  the  effectiveness  of  screening  when  maintained  beyond
+three  to  five  years  was  recently  demonstrated  in  the  NELSON  study
+wherein  a  fourth  screening  CT  was  done  55  years  after  inclusion
+and  concerned  thus  5279  patients  ie  68  of  the  initially-included
+experimental  group  That  fourth  screening  was  positive  in  105
+patients  ie  2  of  the  5279  participants  among  which  43  08
+were  diagnosed  with  cancer  for  a  positive  predictive  value  PPV  of
+41  which  was  similar  to  the  mean  PPV  of  all  four  of  the  NELSON
+studys  screening  rounds  37  Thus  at  five  and  a  half  years  and  even
+further up  to  eleven  years  the  cumulative  number  of  detected  lung
+cancers  remained  significantly  higher  in  the  experimental  group  vs
+the  control  group  Finally  the  relative  risk  of  lung  cancer-related
+death  was  significantly  reduced  from  24  by  year  at  eight  to  ten
+years  and  by  22  at  eleven  years  in  men  In  women  lung  cancer
+mortality  was  significantly  reduced  by  54  59  and  48  at  7  8
+and  9  years  respectively  16
+More  recently  the  ten-year  data  of  the  randomized  MILD  trial
+were  published  In  MILD  either  annual  n    1190  or  biennial
+n    1186  screening  was  maintained  for  ten  years  and  the  results
+compared  to  those  of  a  control  group  20  The  trial  showed  an  over-
+all  reduction  in  cancer-related  mortality  with  that  benefit  being
+more  pronounced  after  five  years  Thus  at  ten  years  the  sex  age
+and  consumption  in  PY-adjusted  overall  death  risk  was  signifi-
+cantly  lowered  by  32  and  the  lung  cancer-related  death  risk  was
+reduced  by  68  These  data  convincingly  demonstrate  that  screen-
+ing  continues  to  reduce  the  risk  of  lung  cancer-related  death  when
+continued  for  at  least  ten  years
+7 LDCT  screening  should  be  continued  for  at  least  55  to
+10  years  grade  A
+202S  Couraud  G  Ferretti  B  Milleron  et  al  Diagnostic  and  Interventional  Imaging  102  2021  199211
+Table 2
+Eligibility
+ exclusion  and  exit  criteria  for  individual  lung  cancer  screening
+Eligibility  criteria  Exclusion  criteria  Exit  criteria
+Age between  50  and  74  years  AND
+smoking
+   10  cigarettesday  for    30  years
+OR   15  cigarettesday  for    25  years  AND
+current
+ smoker  or  ex-smoker  having  quit  in
+the
+ preceding  10  years  OR  preceding  15  years
+OPTIONInability to  climb  two  floors  by  stairway  without
+stoppingCessation  of  smoking  dating    10  years
+optionally
+   15  years
+AND
+ accepting  screening  after  provision  of
+informed
+ consentWeight   140  kg  Age    74  years  after  3  CT  examinations
+excluding
+ studies
+AND
+ willing  to accept help  for  smoking
+cessationHistory of thoracic CT  within  the  preceding  year
+except screening  CTDevelopment of an  exclusion  criterion
+History
+ of  lung  cancer  within  preceding  five  years  or
+under
+ treatment  for  lung  cancer
+History
+ of  cancer  currently  monitored  by  thoracic
+imaging
+ studies
+Severe
+ comorbidityies  contraindicating  therapeutic
+possibilities
+ or  invasive  thoracic  procedures
+Current
+ or  recent  respiratory  symptomatology
+suggestive
+ of cancer hemoptysis weight loss  recent
+pulmonary  infection
+6 How  frequently  should  screening  CT  be  performed
+The  optimal  interval  between  screening  LDCT  has  not  yet  been
+clearly  established  In  a  debated  interim  analysis  within  the  MILD
+trial  an  increase  in  the  cumulative  incidence  of  lung  cancers  was
+observed  in  the  annual  compared  to  the  biennial  screening  group
+excluding  nonsolid  nodules  but  there  was  no  sign  of  an  increase
+in  advanced-stage  detections  in  the  biennial  group  Furthermore
+there  were  no  statistically  significant  differences  between  the
+annual  and  biennial  screening  groups  in  terms  of  mortality  test
+performance  sensitivity  specificity  predictive  values  or  number
+of  interval  lung  cancers  those  detected  between  screening  CT
+3840 
+The  NELSON  trial  performed  a  baseline  screening  first  round
+and  thereafter  spaced  their  screenings  incrementally  with  first  a
+one-year  second  round  then  a  two-year  third  round  and  finally
+an  optional  two  and  a  half-year  fourth  round  interval  In  com-
+parison  to  the  trials  second  screening  round  the  fourth  round
+detected  significantly  less  stage  IA  cancers  759  vs  609  and
+more  stage  IIIBIV  cancers  68  vs  173  P    002  In  comparison
+to  the  third  screening  round  the  fourth  round  again  detected  less
+stage  IA  cancers  727  vs  609  and  more  stage  IIIBIV  cancers
+but  this  time  without  statistical  significance  P    010  Nonethe-
+less  the  number  of  cancers  detected  in  the  fourth  screening  round
+five  and  a  half  years  after  baseline  was  only  slightly  and  statis-
+tically  insignificantly  lower  than  those  of  the  preceding  rounds
+suggesting  a  screening  performance  rate  of  lung  cancer  detection
+that is  not  inferior  to  other  intervals  There  was  however  the  draw-
+back  of  a  greater  number  of  interval  cancers  observed  in  that  two
+and  a  half-year  period  between  the  trials  third  and  four  screen-
+ing  rounds  37  An  analysis  of  the  results  from  the  one  and  two
+year  intervals  second  and  third  rounds  showed  that  there  was  no
+statistically  significant  difference  between  them  in  the  number  of
+cancers  detected  in  later  stages  P    009  41
+In  the  absence  of  personalized  risk  assessments  these  results
+argue  in  favor  of  a  screening  interval  of  two  years  at  the  most
+Based  on  a  modeling  study  of  the  NELSON  data  it  does  appear  that
+shorter  screening  intervals  do  have  a  greater  effect  on  reducing
+mortality  with  one  two  and  three-year  intervals  between  screen-
+ings  reducing  that  endpoint  respectively  from  11  to  21  65  to  96
+and  46  to  6  Annual  screening  does  thus  appear  to  be  more  cost-
+effective  when  considered  in  terms  of  life-years  saved  compared
+to  saved  costs  4243   Furthermore  another  work  derived  from
+the  NELSON  trial  demonstrated  a  significantly  longer  preclinical
+time  the  time  needed  to  progress  from  stage  IA  to  stage  II  for  IAadenocarcinoma in  women  244  years  compared  to  men
+182 years  but  no  such  difference  was  detected  for  other
+histopathological  types  between  sexes  44
+Equally  the  results  of  preceding  screening  rounds  appear  to
+be  an  important  predictive  element  45  Indeed  post-hoc  anal-
+yses  of  NLST  data  have  shown  that  incidence  and  mortality  are
+inversely  related  to  a  preceding  negative  screening  and  that  the
+effect  strengthens  with  a  second  preceding  negative  screening
+Other  variables  significantly  associated  with  the  risk  of  cancer
+diagnosis  were  a  known  history  of  COPD  and  CT  detection  of
+emphysema  46
+These  data  were  furthermore  confirmed  in  the  NELSON  study  In
+its  fourth  round  the  risk  of  lung  cancer  was  06  for  patients  with
+negative  results  from  all  the  preceding  three  rounds  but  16  for
+those  with  at  least  one  indeterminate  round  but  never  a  positive
+round  and  37  for  those  with  an  indeterminate  third  round  vs
+06  for  those  with  a  negative  third  round  37  Finally  the  NELSON
+trial  also  showed  that  the  risk  of  cancer  was  correlated  to  nodule
+size  and  nodule  volume  doubling  time  VDT  47
+Thus  several  authors  have  suggested  personalizing  screening
+intervals  after  the  second  screening  as  a  function  of  the  patients
+individual  risk  profile  as  determined  by  prediction  scores  such  as
+PLCO m2012 or  the  radiological  data  from  the  first  baseline  screen-
+ing  Very  recently  the  team  behind  the  PLCO  cancer  risk  prediction
+model  developed  and  validated  a  model  wherein  preceding  screen-
+ing  results  are  considered  in  addition  to  the  PLCO m2012 variables
+45  Their  results  suggested  that  for  at-risk  patients  PLCO    13
+for the  NCCN    2  risk  in  the  Cancer  Care  Ontario  pilot  study  cohort
+the  screening  interval  should  be  maintained  at  one  year  whereas
+for  others  an  interval  of  two  years  may  be  proposed  Setting  a
+screening  interval  based  on  individual  risk  would  of  course  reduce
+costs  and  furthermore  lower  exposure  to  radiation  for  people  at  low
+risk  who  could  be  scheduled  for  screening  once  every  two  years
+However  no  prospective  studies  have  been  done  on  this  strategy
+7 What  technical  procedures  are  necessary  for  screening
+Lung  cancer  screening  is  performed  via  a  volumetric  unen-
+hanced LDCT scan 4849   Scanners  with    16  raws  of  detectors
+should  be used  for  acquisitions  these  latter  taken  with  the  patient
+in the supine  position  arms  extended  behind  the  head  during  a
+deep-inspiration  breath-hold  and  covering  the  lung  from  its  apex
+through  to  the  inferior  pleural  recesses  Native  slice  thickness
+should be    125  mm  with  a  30-overlap  reconstruction  to  enable
+volumetric  analysis  of  abnormalities
+203S  Couraud  G  Ferretti  B  Milleron  et  al  Diagnostic  and  Interventional  Imaging  102  2021  199211
+8  Considering  the  current  state  of  knowledge  and  the  absence
+of risk  personalization  the  expert  group  recommends  a  max-
+imum interval  of  two  years  between  LDCT  screenings  grade
+B9 Pending  specific  studies  it  seems  reasonable  to  initially
+propose  two  screenings  with  a  one-year  interval  between
+them  When  both  are  negative  and  the  patient  has  no  risk
+factors  other  than  tobacco  use  eg  emphysema  history  of
+COPD  biennial  screening  may  be  proposed  Screening  must
+however remain  annual  in the presence  of  any  additional  risk
+factors andor  any  indeterminate  screening  result  grade  AE
+There  is  currently  no  consensus  definition  of  low-dose  CT
+Considering the  diverse  range  of  employed  CT  equipment  radia-
+tion  limits  should  not  be  expressed  in  terms  of  volts  or  milliamps
+but  instead  in volume CT  dose  index  CTDI  with  a  goal  of  achiev-
+ing a  volumetric  CTDI  or  CTDIvol  of  no  more  than  3  mGy  in
+a standard-size patient height  170  cm  weight  70  kg  5051
+and for  instance    04  mGy  for  patients  weighing    50  kg    08  mGy
+for  patients weighing   50  to    80  kg  and    16  mGy  for  patients
+weighing   80  kg  DLP  and  CTDI  should  be  indicated  on  the  imag-
+ing study report Ultra-low-dose  CT  dose  close  to  that  of  a
+frontal   lateral  chest  X-ray  currently  lacks  sufficient  validation  for
+deployment in screening  5052   However  techniques  to  optimize
+image  noise  to  irradiation  ratios  such  as  iterative  reconstruction  or
+deep learning are  recommended
+Readings  should  be  done  at  the  workstation  from  axial  slices  no
+thicker  than  15  mm  reconstructed  in  lung  parenchyma  and  medi-
+astinal  windows  and  furthermore  in  multiplanar  reconstruction  for
+detected  abnormalities  Maximum  intensity  projections  with  slab
+thicknesses  of  5  to  8  mm  should  be  used  to  optimize  the  detection
+of  peripheral  solid  nodules  53  Second-reading  computer-aided
+detection  CAD  has  been  shown  to  increase  lung  nodule  detection
+sensitivity  76  compared  to  results  provided  by  single  50  or
+double  63  human  readers  54  Within  a  study  involving  400
+CT  examinations  randomly  chosen  from  the  NELSON  trial  double
+radiologist  reading  22  of  nodules    50  mm3  including  one  can-
+cer were  identified  only  by  CAD  55  That  study  reported  detection
+rates  of  78  and  97  respectively  for  double  readings  and  CAD
+ie  19  more  nodules  using  the  latter  compared  to  the  former
+It  also  reported  that  false-positives  by  CAD  could  be  limited  by
+excluding  nodules  measuring  less  than  50  mm3equivalent  to  a
+mean  diameter  of  5  mm  55  Those  results  were  confirmed  in  a
+study  performed  on  anthropomorphic  phantoms  to  compare  vari-
+ous  combinations  of  single  or  double  readings  and  three  different
+CAD  programs  for  solid  and  nonsolid  nodules  measuring    5  mm
+Combining  one  human  reader  with  one  CAD  provided  sensitivities
+constantly  greater  than  those  obtained  by  any  combination  of  two
+CADs  9799  vs  8588  56  In  the  setting  of  organized  screen-
+ing  it  appears  more  realistic  to  systematically  deploy  a  second
+reading  by  CAD  with  a  predefined  detection  threshold  rather  than
+double  radiologist  readings  Limitations  to  the  use  of  CAD  include
+an  increase  in  reading  time  the  management  of  false-positives  and
+a  lower  sensitivity  for  the  detection  of  nonsolid  nodules  57  In
+the  near  future  the  introduction  of  artificial  intelligence  should
+improve  CAD  performance  and  ultimately  will  find  itself  the  subject
+of  research  notably  through  radio-banking  58  An  advantage  of
+CAD  is  that  it  can  be  paired  with  volumetric  evaluation  of  detected
+nodules  for  immediate  classification  according  to  guidelines  59
+The  interpretation  of  screening-derived  CT  images  must  be
+entrusted  to  radiologists  specialized  in  thoracic  imaging  or  thereto
+trained  via  specific  validated  programs  Nodule  volume  mea-
+surements should  be  done  with  dedicated  software  on  standard
+reconstructions  If  that  is  not  possible  measurements  may  be  takenTable  3
+Minimal
+ requirements  for  lung  cancer  CT  screening  structured  report
+Type  Variable  unit
+Technical  data  Dose-length  product  mGYcm
+Delivered
+ dose  Sv
+CTDIvol mGy
+NodulecharacterizationAttenuation solidnonsolidpart-solid
+Location laterality  and  lobe
+Number
+ of  slices  at  nodule  center
+Findings
+ suggesting benignity calcification fat
+density typical lung  lymph  node  aspects
+Prevalent or  incident
+Morphology
+ regular  or  spiculated  borders
+perifissural
+ aspects
+Involvement
+ of  neighboring  structures  yesno
+Dimension solid  nodule volume in mm3
+nonsolid average  of  the  long  and  short  axes
+part-solid
+ volume  of  solid  component  and  average
+of
+ the  long  and  short  axes
+VDT days and comparison to preceding
+examinations
+Emphysema
+ Yesno  if  yes  number  of  affected  lobes
+Otherabnormalityiesjustifyingmanagementparenchymatousmediastinalabdominal
+CTDI CT  dose  index  VDT  volume  doubling  time
+manually  following  the  Fleischner  Societys  recommendations  for
+fortuitously-discovered  nodules  60  Manual  measurement  of
+nodule  diameter  must  be  done  on  reconstructed  sections  with  lung
+window  settings  The  average  of  the  long  and  short  axes  should  be
+used  to  express  the  size  of  nodules    10  mm  The  maximum  diam-
+eter  is  sufficient  for  nodules    10  mm  or  with  a  round  shape  All
+measurements  are  expressed  in  millimeters  rounded  to  the  near-
+est  whole  number  For  part-solid  nodules  the  solid  component  and
+global  diameters  must  be  indicated
+The  screening  CT  examination  must  be  assessed  first  as  a  sep-
+arate entity  then  in  comparison  with  all  available  preceding  CT
+including  the  oldest  ones  to  evaluate  lesion  evolution  The  CT
+report  must  include  all  observations  necessary  for  determining  the
+most  pertinent  course  for  clinical  management  61  A  radiologi-
+cal  report  model  will  help  to  ensure  inter-reader  reproducibility
+Table  3  Screening  CT  imaging  files  are  to  be  stored  on  a  central-
+ized  server  in  the  Digital  Imaging  and  Communications  in  Medicine
+format  for  quality  control  and  research  purposes
+Each  patient  should  be  encouraged  to  have  all  hisher  iterative
+screenings  performed  in  a  single  center  Should  that  recommenda-
+tion  not  be  followed  by  the  patient  centralized  file  management
+may  nonetheless  enable  access  to  CT  histories  and  their  indis-
+pensable  comparison  All  medical  centers  having  the  necessary
+technicalorganizational  capacities  and  pertinently  specialized  or
+trained radiologists  may  propose  lung  cancer  LDCT  screening
+10 Lung  cancer  screening  should  be  done  via  unenhanced
+LDCT at  a  DLP    100  mGycm  and  a  CTDI  consistent  with  patient
+weight  and  includes  volumetric  measurement  of  any  detected
+abnormalities  grade  A
+11 Second-reading  computer-aided  detection  is  recom-
+mended grade  AE
+12  The  use  of  a  minimum  radiological  report  model  is  rec-
+ommended grade  AE
+204S  Couraud  G  Ferretti  B  Milleron  et  al  Diagnostic  and  Interventional  Imaging  102  2021  199211
+8  How  screening  CT  should  be  interpreted
+There  are  several  formalized  guidelines  for  screening-detected
+nodule  management  including  those  of  the  Fleischner  Society
+4962    which  were  edited  for  incidentally  found  nodules  
+or the  LungRADS  classification  updated  to  version  11  in  2019
+of  the  American  College  of  Radiology  The  American  College
+of  Radiologys  Lung  CT  Screening  Reporting    Data  System
+is  available  at  
+and-Data-SystemsLung-Rads   accessed  05  July  2019  These  guide-
+lines  define  positive  tests  in  different  ways  and  have  not  been
+subjected  to  prospective  comparative  trials  as  of  this  writing  In
+addition  to  those  formalized  guidelines  there  are  also  clinical  trial
+protocols  including  those  for  the  NLST  and  NELSON  study  that  have
+been  prospectively  tested  in  the  setting  of  a  randomized  trial  with
+definitions  for  positive  indeterminate  for  NELSON  or  negative
+tests  as  well  as  associated  decisional  algorithms  The  NELSON  trial
+defined  a positive screening via a combination  of  nodule  presence
+and
+ size  volume  with  a  later  contribution  of  VDT  That  approach
+yielded a PPV of 41 Comparatively the  NLST  wherein  all  non-
+calcified
+ nodules    4  mm  were  considered  positive  reported  a  PPV
+of  36 and a criticized false-positive  rate  of  96  12474858 
+Several post-hoc  analyses  were  programmed  as  part  of  the  NEL-
+SON trial with the goal  of  better  identifying  at-risk  abnormalities
+by for  example  refining  thresholds  for  nodule  volume  or  VDT  On
+another point those  analyses  showed  notably  that  incident  nodules
+those  not  present  in  preceding  screenings  carried  a  greater  risk  of
+malignancy 6364   The  threshold  refinements  however  although
+interesting  in  theory  did  not  appear  to  demonstrate  an  interest
+Indeed  such  changes  performed  inferiorly  to  the  initial  protocol
+notably  in  terms  of  PPV  and  specificity  4765 
+Nonetheless  a  group  of  authors  who  participated  in  screening
+programs  in  eight  European  countries  recently  published  an  expert
+opinion  recommending  the  use  of  the  threshold  refinements  devel-
+oped  in  the  above-mentioned  post-hoc  analyses  for  solid  nodules
+58  Those  threshold  refinements  are  also  forwarded  in  recent  rec-
+ommendations  by  the  European  Society  of  Radiology  ESR  and
+the  European  Respiratory  Society  ERS  66  The  refined  positivity
+thresholds  vary  for  prevalent  nodules  present  at  baseline  100  to
+300  mm3and  VDT  of  600  days  or  incident  30  to  200  mm3and  VDT
+of  600  days  and  remaining  inferior  to  200  mm3or  8  mm  nodules
+these latter necessitating a  greater  level  of  attention  Notwithstand-
+ing the  positioning  of  these  other  expert  groups  the  French  expert
+group  recommends  the  nodule  interpretation  rules  defined  in  the
+initial  NELSON  protocol  whatever  the  type  of  nodule  considering
+that  these  rules  only  have  been  validated  in  a  prospective  random-
+ized  trial  1648   This  recommendation  necessitated  votes  among
+the  work  group  members  20  votes  cast  for  solid  13  votes  in  favor
+of  the  NELSON  trial  rules  48  5  votes  in  favor  of  the  post-hoc-
+developed  rules  4758   1  vote  for  neither  1  no  opinion  vote  and
+subsolid  10  votes  in  favor  of  the  NELSON  trial  rules  48  5  votes
+in  favor  of  the  Fleischner  Society  rules  62  2  votes  in  favor  of  the
+LungRADS  v11  rules  1  vote  for  neither  2  no  opinion  votes  nodules
+The  analysis  of  a  CT  screening  will  give  one  of  three  possible
+results  a  positive  screening  leading  to  management  involving  a
+multidisciplinary  team  MDT  meeting  due  to  a  high  probability
+of  lung  cancer  67  a  negative  screening  finding  no  suspi-
+cious  abnormalities  and  necessitating  only  the  maintenance  of  the
+screening  schedule  and  finally  an  indeterminate  screening  rep-
+resenting only a  temporary  result  and  necessitating  a  follow-up
+CT  in  three  months  That  follow-up  imaging  study  remains  an
+unenhanced  LDCT  The  probability  of  malignancy  for  a  screening-
+detected  nodule  depends  primarily  on  its  density  solid  part-solid
+nonsolid  volume  or  diameter  and  evolution  In  the  case  of  mul-
+tiple  nodules  the  strategy  to  be  deployed  is  that  pertinent  to  the
+most  suspicious  nodule13  The  expert  group  recommends  using  the  protocol
+deployed in  the  NELSON  trial  for  the  interpretation  of  all  nod-
+ule types  solid  part-solid  nonsolid  detected  in  LDCT   This
+recommendation  was subjected  to  votes  by  the  work  group
+members 20  votes  cast  1320  voted  for  this  recommenda-
+tion  in  the  setting  of  solid  nodules  and  1020  voted  for  it  in  the
+setting  of  subsolid  nodules  grade  AE
+9 Decision-making  strategy  for solid nodules
+The  first  step  in the presence  of  a  solid  nodule  is  to  determine  if
+it  meets  benignity  criteria If the nodule is  entirely  calcified  or  if  it
+has a  central  calcification  on two orthogonal  planes  the  screening
+is considered  negative  regardless  of  nodule  size  In  this  case  the
+established screening  schedule  may  be  maintained  Other  benig-
+nity  criteria  include  an  intranodular  fat  deposit  40  to  120
+Hounsfield  units  or  features  suggesting  an  intrapulmonary  lymph
+node  solid  homogenous  density  size    10  mm    10  mm  from  a
+pleural  surface  location  inferior  to  the  tracheal  carina  triangular
+or oval  shape  connection  to  adjacent  pleura  by  a  thin  septum  14
+For  non-calcified  solid  nodules  the  main  feature  to  be  consid-
+ered  is  nodal  volume  or  failing  that  the  mean  of  the  long  and  short
+axes  Fig  2  Because  nodules  are  never  perfectly  spherical  there
+is  no  strict  proportionality  between  volume  and  diameter  mea-
+surements  As  a  simplification  measure  the  diameter  thresholds
+given  below  have  been  rounded  consequently  they  do  not  corre-
+late  strictly  with  the  corresponding  volume  thresholds  It  is  also
+important  to  underline  the  need  for  identical  acquisition  parame-
+ters  when  calculating  VDT  from  two  volumetric  evaluations
+Non-calcified  nodules  measuring    50  mm3or  with  a  diam-
+eter    5  mm  indicate  a  negative  screening  and  the  patient  may
+maintain  the  established  screening  schedule  Non-calcified  nod-
+ules  measuring    500  mm3or  with  a  diameter    10  mm  indicate
+a  positive  screening  and  the  patient  must  be  referred  to  an
+MDT  for  the  determination  of  complementary  investigations  Non-
+calcified  nodules  measuring  in  between  those  thresholds  indicate
+an  indeterminate  screening  A  follow-up  CT  should  be  scheduled
+at  three  months  68  weeks  for  incidental  nodules  for  nodal  vol-
+ume  or  mean  diameter  comparisons  and  VDT  calculations  A
+VDT    400  days  indicates  a  negative  test  and  the  patient  may  return
+to  the  established  screening  schedule  Inversely  a  VDT    400  days
+indicates  a  positive  test  and  the  patient  must  be  referred  to  a  MDT
+Fig  2
+14 For  non-calcified  solid  nodules  the  volume  thresholds
+of   50  mm3and    500  mm3indicate  respectively  negative  and
+positive  screenings  Patients  with  nodal  volumes  in  between
+the  above  thresholds  should  be  scheduled  for  a  follow-up  CT
+in three  months  68  weeks  for  incidental  nodules  Calculated
+upon that  follow-up  CT   VDTs    400  days  and    400  days  indi-
+cate  respectively  negative  and  positive  tests  grade  A
+10 Decision-making  strategy  for  subsolid  nodules
+Particularities  in  the  management  of  subsolid  nodules  arise
+from  on  one  hand  their  propensity  to  self-resolve  approxi-
+mately  50  of  nodules  but  on  the  other  hand  their  tendency
+to  become  adenocarcinomasalbeit  generally  non  or  minimally
+invasivewhen  they  do  not  resolve  6268   It  is  these  indolent
+lesions  that  are  most  likely  to  expose  patients  to  overdiagnosis
+6970   Thus  in  the  presence  of  subsolid  nodules  surveillance
+should  be  given  priority  to  avoid  that  risk  58  Also  in  this
+205S  Couraud  G  Ferretti  B  Milleron  et  al  Diagnostic  and  Interventional  Imaging  102  2021  199211
+Fig  2  Proposition  for  a  non-calcified  solid  lung  nodule  decisional  algorithm  adapted  from  48
+setting  the  reproducibility  of  volumetric  measurements  is  reduced
+It  is  also  important  here  to  re-emphasize  the  irrelevance  of18FDG
+PET-CT  for  nonsolid  nodules
+In  a  position  statement  some  European  experts  recommended
+the  deployment  of  the  protocol  proposed  by  the  British  Thoracic
+Society  5871   That  protocol  is  however  complex  and  unvalidated
+in  prospective  trials  as  of  this  writing  With  the  present  document
+the  French  expert  group  recommends  the  prospectively-validated
+NELSON  trial  protocol  48  This  latter  distinguishes  nonsolid  and
+part-solid  nodules  Nonsolid  nodules  are  described  using  the  mean
+of  the  long  and  short  axes  When  it  is    8  mm  the  screening  may
+be  considered  negative  When  it  is    8  mm  the  screening  should  be
+considered  indeterminate  and  the  patient  rescheduled  for  a  follow-
+up  CT  in  three  months  If  no  solid  component  has  appeared  the
+screening  is  considered  negative  otherwise  it  is  considered  pos-
+itive  Fig  3  Specialist  opinion  should  be  however  considered  in
+case  of  ground-glass  opacity  extension    2  mm  only  with  no  solid
+component  appearance  Part-solid  nodules  are  described  by  the
+mean  of  the  long  and  short  axes  and  the  volume  of  the  solid  com-
+ponent  The  decisional  algorithm  proposes  pathways  as  a  function
+of  those  two  variables  Fig  4
+15 In  the  presence  of  a  nonsolid  nodule  the  screening  is
+considered  negative  when  the  mean  diameter  is    8  mm  inde-
+terminate  when  the  mean  diameter  is    8  mm  and  positive  if  a
+solid component has developed  at  the  time  of  the  three-month
+follow-up
+ CT  grade  A
+16 In  the  presence  of  a  prevalent  part-solid  nodule  the
+screening is  considered  negative  when  the  mean  diameter
+of the  nodule  is    8  mm  and  the  volume  of  the  solid  com-
+ponent is    50  mm3  indeterminate  when  the  mean  diameter
+is   8  mm  or  when  the  volume  of  the  solid  component  is    50
+and    500  mm3  and  positive  when  the  volume  of  the  solid
+component  is    500  mm3  or  when  the  volume  of  the  solid
+component  is    50  and    500  mm3  and  the  nonsolid  compo-
+nent evolves  rapidly  VDT    400  days  at  three-month  follow-up
+scanner11  What  information  should  be  provided  to  eligible
+patients
+Cancer  screening  is  of  interest  only  if  it  reduces  mortality
+from  the  cancer  it  targets  Screening  for  lung  cancer  does  so
+and  in  a  statistically  significant  fashion  as  shown  by  three  stud-
+ies  the  American  NLST    50000  participants  and  the  European
+NELSON    15000  participants  and  MILD    4000  participants
+studies  Thus  deploying  lung  cancer  screening  does  appear  to  be
+advantageous  but  doing  so  has  consequences  that  must  be  com-
+municated  to  screening-eligible  patients  Appendix  1  Principally
+these  latter  must  be  informed  about  the  high-risk  of  discovering  an
+abnormalitywhatever  the  naturethat  could  necessitate  further
+and  sometimes  invasive  investigations  Considering  the  NELSON
+data  of  every  1000  patients  who  underwent  screening  22  had  pos-
+itive  results  and  among  them  9  were  ultimately  diagnosed  with
+lung  cancer  That  result  implies  13  false-positives  that  would  need
+complementary  examinations  most  being  supplementary  imaging
+studies  rather  than  invasive  procedures  that  could  cause  compli-
+cations  Information  provided  to  patients  must  emphasize  that
+the  risk  of  cancer  discovery  remains  low  at  about  09  to  37  in
+the  screening-eligible  population  1216   The  psychological  impact
+resulting  from  the  possible  discovery  of  an  abnormality  must  be
+discussed  with  patients  as  must  the  sometimes  large  amount  of
+time  needed  to  determine  benignity  or  malignancy  On  those  points
+however  several  research  teams  have  looked  at  the  effects  of  LDCT
+cancer  screening  on  patient  anxiety  and  quality  of  life  and  reported
+relatively  reassuring  findings  7277 
+Also  to  be  considered  is  the  risk  of  overdiagnosis  ie  the
+discovery  of  indolent  tumors  that  would  have  never  manifested
+clinically  nor  caused  the  death  of  the  patient  That  said  this  risk
+is  likely  globally  infrequent  in  lung  cancer  where  VDT  is  usually
+short about  180  days  on  average  7879   Evaluating  overdiagno-
+sis  in  this  setting  is  complex  According  to  different  studies  and
+especially  different  employed  methodologies  it  may  occur  in  0
+to  67  of  cases  188081   The  NLST  reported  an  estimated  138
+cases  of  overdiagnosis  for  every  320  patients  who  would  need  to
+206S  Couraud  G  Ferretti  B  Milleron  et  al  Diagnostic  and  Interventional  Imaging  102  2021  199211
+Fig  3  Proposition  for  a  nonsolid  lung  nodule  decisional  algorithm  adapted  from  48
+Fig  4  Proposition  for  a  part-solid  or  sub-solid  nodule  lung  nodule  decisional  algorithm  adapted  from  ref  48
+be  screened  to  avoid  one  lung  cancer  death  80  Very  recently
+an  article  on  extended  follow-up  results  12  years  for  the  NLST
+reported  a  reassuring  3  rate  of  overdiagnosis  noting  however  that
+this  was  after  the  exclusion  of  bronchioloalveolarlepidic  adeno-
+carcinomas  corresponding  morphologically  to  subsolid  nodules
+which  carry  a  very  high  rate  of  overdiagnosis  approaching  80  70
+Thus  the  risk  of  overdiagnosis  in  lung  cancer  screening  appears
+to  be  present  mainly  in  subsolid  nodules  which  show  longer
+VDTs  sometimes  exceeding  400  days  Nonetheless  the  degener-
+ative  potential  of  subsolid  nodules  must  not  be  underestimated  as
+they  are  able  to  evolve  sometimes  quite  belatedly  into  invasive
+and  even  metastatic  cancer  Therefore  some  of  these  nodules  may
+in  reality  be  slow-growing  cancers  6982   which  leads  less  to  a
+overdiagnosis  bias  than  to  a  leadtime  bias  These  lesions  thus  do
+require long-term  monitoring  and  may  deserve  MDT  consideration
+Unneeded  investigations and  treatments  can  be  avoided  by
+following  recommendations  for  the  management  of  screening-
+detected  nodules  In  the  NELSON  trial  264  subsolid  nodules  were
+detected in  234  patients  representing  33  of  all  detected  nod-
+ules  It  must  be  underlined  that  more  than  half  of  those  nodulesdisappeared  during  follow-up  confirming  their  benignity  and
+probable  infectious  etiology  Of  the  33  subsolid  nodules  resected
+in  the  NELSON  trial  28  were  confirmed  as  non-small  cell  lung  can-
+cers  among  which  nine  were  in  situ  adenocarcinomas  Of  the  19
+resected  invasive  cancers  16  had  VDTs    400  days  The  other  nod-
+ules  were  assigned  to  monitoring  83  Only  07  of  the  NELSON
+trial  participants  had  incident  subsolid  nodules  84
+Also  an  important  isue  is  the  radiation  exposure  resulting  from
+repeat  CT  examination  In  the  NLST  the  mean  LDCT  dose  was
+15  mSv  The  mean  natural  irradiation  in  France  is  29  mSv  per
+year  Institut  de  Radioprotection  et  de  Surete  Nucleaire  IRSN
+French  Institute  for  Radioprotection  and  Nuclear  Safety  2015
+For  comparison  frontal  and  frontal    lateral  chest  X-rays  deliver
+respectively  005  and  02  mSv  LDCT  screening-eligible  patients
+should be  informed  that  any  one  CT  corresponds  to  six  months
+of  natural exposure  at  the  most  Although  the  risk  of  devel-
+oping  radiation-induced  cancer  cannot  be  totally  eliminated  it
+does  appear  to  be  extremely  low  notably  considering  the  age  of
+patients eligible  for  screening  85  Furthermore  the  reduction
+in  overall  mortality  observed  in  the  NLST  suggests  an  absence  of
+207S  Couraud  G  Ferretti  B  Milleron  et  al  Diagnostic  and  Interventional  Imaging  102  2021  199211
+significant  consequences  on  survival  In  the  Italian  ITALUNG  trial
+in  which  3206  patients  were  randomized  to  five  years  of  annual
+LDCT  screening  or  no  screening  for  lung  cancer  the  mean  cumu-
+lated  individual  irradiation  dose  in  the  patients  concerned  by  it
+ranged  from  62  to  68  mSv  The  screening  CT  themselves  were
+responsible  for  77  of  that  exposure  and  complementary  examina-
+tions  for  the  remaining  23  86  Some  authors  have  underlined  the
+deleterious  effects  of  overstating  the  risks  of  radiation  to  patients
+including  that  of  premature  mortality  caused  by  the  non-detection
+of  serious  pathologies  whereas  any  theoretical  risk  caused  by  irra-
+diation  would  appear  many  years  after  the  examination  if  at  all
+87  However  the  advent  of  ultra-low  dose  scanners  that  will  pro-
+vide  comparable  nodule-detection  capacities  for  a  radiation  dose
+025  mSv  close  to  that  of  a  chest  X-ray  will  probably  change  the
+game  in  the  future  5052 
+Finally  the  issue  of  smoking  cessation  must  be  discussed  with
+screening  candidates  and  the  degree  of  nicotine  dependency  eval-
+uated  for them The  participants  in  the  ACRIN  arm  of  the  NLST  had
+provided  particularly  high  amounts  of  smoking  data  A  recent  study
+focusing on those  NLST  participants  88  confirmed  increased  rates
+of  lung  cancer  and  specific  and  all-cause  mortality  in  patients  with
+higher vs lower  dependency  scores  Cessation  is  thus  a  major  issue
+The  NLST  counted  24190  current  and  26073  former  smokers  The
+control groups former  smokers  who  had  seven  years  of  abstinence
+showed  20  less  lung  cancer-specific  mortality  ie  a  reduction
+equivalent  to  that  obtained  by  the  LDCT  screening  program  The
+experimental  groups  ie  those  who  received  LDCT  screening  for-
+mer  smokers  abstinent  for  seven  years  did  even  better  with  a  30
+reduction  in  that  same  endpoint  However  the  best  result  38
+in  specific  mortality  was  obtained  in  patients  who  were  abstinent
+for  15  years  and  in  the  experimental  group  89  Participation  in  a
+screening  program  can  however  contribute  to  cessation  The  NLST
+observed  a  reduction  in  the  number  of  active  smokers  each  year
+and  that  reduction  was  stronger  in  patients  for  whom  screening
+results  were  positive  with  features  highly  suggestive  of  cancer  90
+The  patients  who  quit  smoking  in  these  conditions  appeared  to  do
+so  durably  For  all  of  the  above  reasons  smoking  cessation  assis-
+tance  must  be  systematically  proposed  to  all  patients  undergoing
+LDCT  for  lung  cancer  screening  The  work  group  recommends  that
+information on  smoking  cessation  be  provided  in  both  oral  and
+written  forms  Appendix  1
+17 Precise  information  on  the  benefits  of  screening  the  pos-
+sible  risks  of  screening  including  overdiagnosis  and  tobacco
+cessation  must  be  provided  to  patients  before  they  partici-
+pate in  an  individual  LDCT  screening  program  for  lung  cancer
+grade AE
+12 Conclusion
+Although  the  effectiveness  of  LDCT  for  lung  cancer  screening  has
+been  clearly  demonstrated  its  optimization  remains  dependent  on
+the  clarification  of  numerous  points  In  the  opinion  of  the  work
+group  there  are  three  topics  that  merit  prioritized  investigation
+The  first  topic  is  favoring  the  adherence  of  the  eligible  population
+to  the  screening  program  in  its  entirety  including  smoking  cessa-
+tion  The  second  topic  is  optimizing  eligible  population  selection
+and  identifying  patients  eligible  for  but  not  receiving  screening
+For  these  two  points  pooled  subgroups  analysis  may  be  helpful
+The  third  topic  is  intensifying  the  study  of  radiomics  with  arti-
+ficial  intelligence  9192  and  biomarkers  in  the  setting  of  lung
+cancer screening  and  the  contributions  they  may  make  to  it  Finally
+costriskbenefits  analysis  adapted  to  each  healthcare  system  arealso  essentials  Thus  the  experts  renew  their  recommendation  in
+favor  of  individual  screening  for  lung  cancer  in  France  as  per  the
+conditions  laid  out  in  this  document  grade  A  and  recommend  the
+very  rapid  organization  and  funding  of  prospective  studies  which
+if  conclusive  will  enable  the  deployment  of  lung  cancer  screening
+organized  at  the  national  level  grade  AE
+Contributors
+Prof  Fabrice  Barlesi  Marseille  France
+Dr  Sebastien  Bommart  Montpellier  France
+Dr  Pierre-Yves  Brillet  Paris  France
+Dr  Olivier  Castelnau  St  Laurent  du  Var
+Prof  Pierre-Emmanuel  Falcoz  Strasbourg  France
+Dr  Mathieu  Lederlin  Rennes  France
+Dr  Franck  Leduff  Ajaccio  France
+Prof  Etienne  Lemarie  Tours  France
+Dr  Alain  Makinson  Montpellier  France
+Prof  Charles-Hugo  Marquette  Nice  France
+Dr  Bertrand  Mennecier  Strasbourg  France
+Dr  Michael  Ohana  Strasbourg  France
+Ms Beatrice Rulliat  Lyon  France
+Dr  Anne-Marie  Ruppert  Paris  France
+Ms  Suzy  Sauvajon  Lyon  France
+Dr  Patricia  Soler-Michel  Lyon  France
+Dr  Jean  Tredaniel  Paris  France
+Fundings
+This  work  was  supported  by  the  Intergroupe  francophone  de
+cancerologie  thoracique  which  provided  unrestricted  grant  for
+meeting organization  and  manuscript  edition
+Author  contributions
+All  authors  attest  that  they  meet  the  current  International  Com-
+mittee  of  Medical  Journal  Editors  ICMJE  criteria  for  Authorship
+Credit  author  statement
+Sebastien  Couraud  MD  PhD  Bernard  Milleron  MD  Arnaud
+Scherpereel  MD  PhD  Antoine  Khalil  MD  PhD  conceptualization
+writing  original  draft  preparation
+Gilbert  Ferretti  MD  PhD  Valerie  Gounant  MD  Olivier  Leleu  MD
+Elisabeth  Quoix  MD  PhD  Virginie  Westeel  MD  PhD  Gerard  Zal-
+cman  MD  PhD  writing  original  draft  preparation
+Alexis  Cortot  MD  PhD  Nicolas  Girard  MD  PhD  Franc    ois  Lau-
+rent  MD  PhD  Marie-Pierre  Revel  MD  PhD  Marie  Wislez  MD  PhD
+writing    reviewing  and  editing
+Acknowledgements
+The authors  would  thanks  M  Kevin  Erwin  for  professional
+English  translation
+Disclosure  of  interest
+Dr  Couraud  reports  grants  from  Amgen  grants  personal  fees
+and other from Astra-Zeneca  grants  personal  fees  and  other  from
+BMS  grants personal  fees  and  other  from  Boehringer  Ingelheim
+grants personal fees  and  other  from  Chugai  non-financial  sup-
+port  from  ID  Solution  grants  and  personal  fees  from  Laidet  grants
+and  personal  fees  from  Lilly  grants  and  personal  fees  from  MSD
+grants from  Pfizer  grants  personal  fees  and  other  from  Roche  non-
+financial  support  from  Sophia  Genetics  non-financial  support  from
+208S  Couraud  G  Ferretti  B  Milleron  et  al  Diagnostic  and  Interventional  Imaging  102  2021  199211
+Sysmex  Inostics  grants  personal  fees  and  other  from  Takeda  other
+from  Vitalaire  grants  from  Bayer  outside  the  submitted  work
+Dr  Ferretti  reports  personal  fees  from  Roche  SAS  personal  fees
+from  Boehringer  personal  fees  from  General  Electric  medical  care
+personal  fees  from  BMS  non-financial  support  from  Guerbet  per-
+sonal  fees  from  Astra-Zeneca  personal  fees  from  MSD  outside  the
+submitted  work
+Dr  Cortot  reports  personal  fees  and  non-financial  support  from
+Astra-Zeneca  grants  personal  fees  and  non-financial  support  from
+Bohringer-Ingelheim  personal  fees  and  non-financial  support  from
+BMS  personal  fees  and  non-financial  support  from  MSD  grants
+personal  fees  and  non-financial  support  from  Novartis  grants  from
+Merck  personal  fees  and  non-financial  support  from  Pfizer  grants
+personal  fees  and  non-financial  support  from  Roche  personal  fees
+and  non-financial  support  from  Takeda  during  the  conduct  of  the
+study
+Dr Girard  reports  personal  fees  and  non-financial  support  from
+BMS  personal fees and  non-financial  support  from  MSD  grants
+personal  fees  and  non-financial  support  from  Roche  grants  per-
+sonal fees and  non-financial  support  from  Astra-Zeneca  personal
+fees  and  non-financial  support  from  Pfizer  personal  fees  and  non-
+financial support from  Novartis  outside  the  submitted  work
+Dr  Gounant  reports  personal  fees  from  Astra-Zeneca  personal
+fees from BMS  personal  fees  from  MSD  personal  fees  from  Pfizer
+personal  fees  from  Takeda  personal  fees  from  Roche  personal  fees
+from  Boehringer  outside  the  submitted  work
+Dr  Leleu  reports  personal  fees  from  Astra-Zeneca  personal  fees
+from  Roche  outside  the  submitted  work
+Dr  Quoix  reports  personal  fees  and  other  from  BMS  other  from
+Roche  other  from  Takeda  personal  fees  from  Novartis  outside  the
+submitted  work
+Dr  Westeel  reports  personal  fees  and  other  from  Roche  per-
+sonal  fees  and  other  from  BMS  personal  fees  and  other  from
+Astra-Zeneca  personal  fees  from  MSD  personal  fees  from  Takeda
+other  from  Pfizer  personal  fees  and  other  from  Boehringer  Ingel-
+heim  personal  fees  from  Lilly  outside  the  submitted  work
+Dr  Zalcman  reports  personal  fees  non-financial  support  and
+other  from  BMS  other  from  Astra-Zeneca  grants  and  other  from
+Roche  personal  fees  from  MSD  outside  the  submitted  work
+The other  authors  declare  that  they  have  no  competing  interest
+Appendix  A  Supplementary  data
+Supplementary  data  associated  with  this  article  can  be  found  in
+the  online  version  at   
+References
+1  Ferlay  J  Colombet  M  Soerjomataram  I  Mathers  C  Parkin  DM  Pi neros  M
+et  al  Estimating  the  global  cancer  incidence  and  mortality  in  2018  GLOBOCAN
+sources  and  methods  Int  J  Cancer  2019144194153
+2 Locher C  Debieuvre  D  Coetmeur  D  Goupil  F  Molinier  O  Collon  T  et  al  Major
+changes in  lung  cancer  over  the  last  ten  years  in  France  the  KBP-CPHG  studies
+Lung  Cancer  201381328
+3  Antonia  SJ  Borghaei  H  Ramalingam  SS  Horn  L  De  Castro  Carpe  no  J  Pluzan-
+ski  A  et  al  Four-year  survival  with  nivolumab  in  patients  with  previously
+treated  advanced  non-small-cell  lung  cancer  a  pooled  analysis  Lancet  Oncol
+2019201395408
+4 Garon  EB  Hellmann  MD  Rizvi  NA  Carcereny  E  Leighl  NB  Ahn  M-J  et  al  Five-
+year  overall  survival  for  patients  with  advanced  non-small-cell  lung  cancer
+treated with  pembrolizumab  results  from  the  phase  I  KEYNOTE-001  study  J
+Clin  Oncol  201937251827
+5  Henschke  CI  Yankelevitz  DF  Libby  DM  Pasmantier  MW  Smith  JP  Miettinen
+OS  Survival  of  patients  with  stage  I  lung  cancer  detected  on  CT  screening  N
+Engl J Med  2006355176371
+6 Raz DJ  Zell  JA  Ou  S-HI  Gandara  DR  Anton-Culver  H  Jablons  DM  Natural  his-
+tory  of  stage  I  non-small  cell  lung  cancer  implications  for  early  detection  Chest
+20071321939
+7  Oken  MM  Hocking  WG  Kvale  PA  Andriole  GL  Buys  SS  Church  TR  et  al
+Screening  by  chest  radiograph  and  lung  cancer  mortality  the  Prostate  Lung
+Colorectal  and  Ovarian  PLCO  randomized  trial  JAMA  20113061865738  Infante  M  Cavuto  S  Lutman  FR  Passera  E  Chiarenza  M  Chiesa  G  et  al
+Long-term  follow-up  results  of  the  DANTE  Trial  a  randomized  study  of  lung
+cancer  screening  with  spiral  computed  tomography  Am  J  Respir  Crit  Care  Med
+2015191116675
+9  Veronesi  G  Bellomi  M  Veronesi  U  Paganelli  G  Maisonneuve  P  Scanagatta
+P  et  al  Role  of  positron  emission  tomography  scanning  in  the  management
+of  lung  nodules  detected  at  baseline  computed  tomography  screening  Ann
+Thorac  Surg 20078495966
+10  Chen  W  Gao  X  Tian  Q  Chen  L  A  comparison  of  autofluorescence  bronchoscopy
+and white  light  bronchoscopy in detection  of  lung  cancer  and  preneoplastic
+lesions a  meta-analysis  Lung  Cancer  2011731838
+11 Couraud S  Milleron  B  Lung cancer screening  what  is  new  since  the  NLST
+results Curr  Pulmonol  Rep  201651309
+12  Aberle  DR Adams AM  Berg  CD Black WC  Clapp  JD  Fagerstrom  RM  et  al
+Reduced
+ lung-cancer  mortality  with  low-dose  computed  tomographic  screen-
+ing N Engl  J  Med 2011365395409
+13  Horeweg  N  van  der  Aalst  CM  Vliegenthart  R  Zhao  Y  Xie  X  Scholten  ET  et  al
+Volumetric  computed  tomography screening for  lung  cancer three rounds of
+the
+ NELSON  trial  Eur  Respir  J  201342165967
+14 Couraud  S  Cortot  AB  Greillier  L  Gounant  V  Mennecier  B  Girard  N  et  al  From
+randomized  trials  to  the  clinic  is  it  time  to  implement  individual  lung-cancer
+screening  in  clinical  practice  A  multidisciplinary  statement  from  French
+experts  on  behalf  of  the  French  Intergroup  IFCT  and  the  Groupe  doncologie
+de langue  franc    aise  GOLF  Ann  Oncol  20132458697
+15  Girard  N  Gounant  V  Mennecier  B  Greillier  L  Cortot  AB  Couraud  S  et  al  Indi-
+vidual  lung  cancer  screening  in  practice  Perspectives  on  the  propositions  from
+the  multidisciplinary  group  of  the  Intergroupe  francophone  de  cancerologie
+thoracique the  Societe  dimagerie  thoracique  and  the  Groupe  doncologie  de
+langue  franc    aise  Rev  Mal  Respir  20143191103
+16  de  Koning  HJ  van  der  Aalst  CM  de  Jong  PA  Scholten  ET  Nackaerts  K  Heuvel-
+mans  MA  et  al  Reduced  lung-cancer  mortality  with  volume  CT  screening  in  a
+randomized trial N  Engl  J  Med  202038250313
+17  Wille  MMW  Dirksen  A  Ashraf  H  Saghir  Z  Bach  KS  Brodersen  J  et  al  Results
+of  the  randomized  Danish  Lung  Cancer  Screening  Trial  with  focus  on  high-risk
+profiling  Am  J  Respir  Crit  Care  Med  201619354251
+18 Paci E Puliti  D  Lopes  Pegna  A  Carrozzi  L  Picozzi  G  Falaschi  F  et  al  Mortality
+survival and  incidence  rates  in  the  ITALUNG  randomized  lung  cancer  screening
+trial  Thorax  20177282531
+19  Infante  M  Sestini  S  Galeone  C  Marchiano  A  Lutman  FR  Angeli  E  et  al  Lung
+cancer screening with  low-dose  spiral  computed  tomography  evidence  from
+a pooled  analysis  of  two  Italian  randomized  trials  Eur  J  Cancer  2017263249
+20  Pastorino  U  Silva  M  Sestini  S  Sabia  F  Boeri  M  Cantarutti  A  et  al  Prolonged
+lung  cancer  screening  reduced  10-year  mortality  in  the  MILD  trial  Ann  Oncol
+20193011629
+21  Becker  N  Motsch  E  Trotter  A  Heussel  CP  Dienemann  H  Schnabel  PA  et  al  Lung
+cancer  mortality  reduction  by  LDCT  screening    Results  from  the  randomized
+German  LUSI  trial  Int  J  Cancer  2019146150313
+22 Gendarme S Perrot E Reskot  F  Bhoowabul  V  Fourre  G  Souquet  P-J  et  al  Eco-
+nomic
+ impact  of  lung  cancer  screening  in  France  a  modeling  study  Rev  Mal
+Respir 20173471728
+23 Leleu  O  Basille  D  Auquier  M  Clarot  C  Hoguet  E  Petigny  V  et  al  Lung  cancer
+screening by low-dose CT scan  baseline  results  of  a  French  prospective  study
+Clin Lung  Cancer  20202114552
+24  van  Iersel  CA  de  Koning  HJ  Draisma  G  Mali  WPTM  Scholten  ET  Nackaerts
+K  et  al  Risk-based  selection  from  the  general  population  in  a  screening
+trial selection  criteria  recruitment  and  power  for  the  DutchBelgian  ran-
+domized  lung  cancer  multi-slice  CT  screening  trial  NELSON  Int  J  Cancer
+200712086874
+25  Moyer  VA  US  Preventive  Services  Task  Force  Screening  for  lung  cancer  US
+Preventive Services Task  Force  recommendation  statement  Ann  Intern  Med
+20141603308
+26  Katki  HA  Kovalchik  SA  Berg  CD  Cheung  LC  Chaturvedi  AK  Development  and
+validation  of  risk  models  to  select  ever-smokers  for  CT  lung  cancer  screening
+JAMA  2016315230011
+27 Gray EP  Teare  MD  Stevens  J  Archer  R  Risk  prediction  models  for  lung  cancer
+a  systematic  review  Clin  Lung  Cancer  20161795106
+28  Field  JK  Duffy  SW  Baldwin  DR  Whynes  DK  Devaraj  A  Brain  KE  et  al  UK
+Lung  Cancer  RCT  Pilot  Screening  Trial  baseline  findings  from  the  screening  arm
+provide  evidence  for  the  potential  implementation  of  lung  cancer  screening
+Thorax 20167116170
+29 Tammemagi  MC  Schmidt  H  Martel  S  McWilliams  A  Goffin  JR  Johnston  MR
+et  al  Participant  selection  for  lung  cancer  screening  by  risk  modelling  the
+Pan-Canadian Early  Detection  of  Lung  Cancer  PanCan  study  a  single-arm
+prospective  study  Lancet  Oncol  201718152331
+30  Carreras  G  Gorini  G  Paci  E  Can  a  national  lung  cancer  screening  program  in
+combination  with  smoking  cessation  policies  cause  an  early  decrease  in  tobacco
+deaths in  Italy  Cancer  Prev  Res  2012587482
+31 Joseph AM  Rothman  AJ  Almirall  D  Begnaud  A  Chiles  C  Cinciripini  PM  et  al
+Lung  cancer  screening  and  smoking  cessation  clinical  trials  SCALE  Smoking
+Cessation  within  the  Context  of  Lung  Cancer  Screening  collaboration  Am  J
+Respir Crit Care  Med  201819717282
+32  Iaccarino  JM  Duran  C  Slatore  CG  Wiener  RS  Kathuria  H  Combining  smoking
+cessation interventions with  LDCT  lung  cancer  screening  a  systematic  review
+Prev Med  20191212432
+33  Zeng  L  Yu  X  Yu  T  Xiao  J  Huang  Y  Interventions  for  smoking  cessation  in  people
+diagnosed with  lung  cancer  Cochrane  Database  Syst  Rev  20196CD011751
+209S  Couraud  G  Ferretti  B  Milleron  et  al  Diagnostic  and  Interventional  Imaging  102  2021  199211
+34  Henschke  CI  Boffetta  P  Gorlova  O  Yip  R  Delancey  JO  Foy  M  Assess-
+ment  of  lung-cancer  mortality  reduction  from  CT  screening  Lung  Cancer
+20117132832
+35 Veronesi  G  Maisonneuve  P  Spaggiari  L  Rampinelli  C  Pelosi  G  Preda  L  et  al
+Long-term  outcomes  of  a  pilot  CT  screening  for  lung  cancer  Ecancermedi-
+calscience  20104186
+36  Veronesi  G  Maisonneuve  P  Rampinelli  C  Bertolotti  R  Petrella  F  Spaggiari  L
+et  al Computed tomography  screening  for  lung  cancer  results  of  ten  years
+of annual  screening  and  validation  of  cosmos  prediction  model  Lung  Cancer
+20138242630
+37  Yousaf-Khan  U  van  der  Aalst  C  de  Jong  PA  Heuvelmans  M  Scholten  E  Lammers
+J-W et al  Final  screening  round of the  NELSON  lung  cancer  screening  trial  the
+effect of  a  25-year  screening  interval  Thorax  2017724856
+38  Pastorino  U Rossi M  Rosato  V Marchiano A  Sverzellati  N  Morosi  C  et  al
+Annual
+ or  biennial  CT  screening  versus  observation  in  heavy  smokers  5-year
+results of the  MILD  trial Eur J Cancer 20122130815
+39  Sverzellati  N  Silva  M  Calareso  G  Galeone  C  Marchiano  A  Sestini  S  et  al
+Low-dose  computed  tomography for lung  cancer  screening comparison of
+performance
+ between  annual  and  biennial  screen  Eur  Radiol  20162638219
+40 Humphrey  LL  Deffebach  M  Pappas  M  Baumann  C  Artis  K  Mitchell  JP  et  al
+Screening  for  lung  cancer  with  low-dose  computed  tomography  a  systematic
+review  to  update  the  US  Preventive  services  task  force  recommendation  Ann
+Intern  Med  201315941120
+41 Horeweg  N  van  der  Aalst  C  Thunnissen  E  Nackaerts  K  Weenink  C  Groen  HJM
+et  al  Participants  results  of  three  rounds  of  the  randomized  DutchBelgian
+Lung  Cancer  Screening  Trial  a  volumetry-based  computer  tomography  screen-
+ing  strategy  Am  J  Respir  Crit  Care  Med  2013187A2344
+42 de  Koning  HJ  Meza  R  Plevritis  SK  ten  Haaf  K  Munshi  VN  Jeon  J  et  al  Benefits
+and  harms  of  computed  tomography  lung  cancer  screening  strategies  a  com-
+parative  modeling  study  for  the  US  Preventive  Services  Task  Force  Ann  Intern
+Med  201416031120
+43 de Koning  HJ  Meza  R  Plevritis  SK  Raising  the  bar  for  the  US  Preventive  Services
+Task  Force  Ann  Intern  Med  20141615323
+44 Ten  Haaf  K  van  Rosmalen  J  de  Koning  HJ  Lung  cancer  detectability  by  test  his-
+tology  stage  and  gender  estimates  from  the  NLST  and  the  PLCO  trials  Cancer
+Epidemiol Biomark Prev 20152415461
+45  Tammemagi  MC  Ten  Haaf  K  Toumazis  I  Kong  CY  Han  SS  Jeon  J  et  al  Devel-
+opment  and  validation  of  a  multivariable  lung  cancer  risk  prediction  model
+that  includes  low-dose  computed  tomography  screening  results  a  secondary
+analysis of data  from  the  National  Lung  Screening  Trial  JAMA  Netw  Open
+20192e190204
+46  Patz  EF  Greco  E  Gatsonis  C  Pinsky  P  Kramer  BS  Aberle  DR  Lung  cancer
+incidence  and  mortality  in  National  Lung  Screening  Trial  participants  who
+underwent low-dose CT prevalence  screening  a  retrospective  cohort  anal-
+ysis  of a  randomised  multicentre  diagnostic  screening  trial  Lancet  Oncol
+2016175909
+47  Horeweg  N  Scholten  ET  de  Jong  PA  van  der  Aalst  CM  Weenink  C  Lammers  J-
+WJ et al Detection  of  lung  cancer  through  low-dose  CT  screening  NELSON  a
+prespecified  analysis of  screening  test  performance  and  interval  cancers  Lancet
+Oncol  201415134250
+48  Xu  DM  Gietema  H  de  Koning  H  Vernhout  R  Nackaerts  K  Prokop  M  et  al  Nod-
+ule management protocol  of  the  NELSON  randomised  lung  cancer  screening
+trial  Lung  Cancer  20065417784
+49  MacMahon  H  Naidich  DP  Goo  JM  Lee  KS  Leung  ANC  Mayo  JR  et  al  Guidelines
+for management  of  incidental  pulmonary  nodules  detected  on  CT  images  from
+the  Fleischner  Society  2017  Radiology  201728422843
+50 Kazerooni  EA  Armstrong  MR  Amorosa  JK  Hernandez  D  Liebscher  LA  Nath
+H  et  al  ACR  CT  accreditation  program  and  the  lung  cancer  screening  program
+designation J  Am  Coll  Radiol  201613R304
+51 Beregi JP  Greffier  J  Low  and  ultra-low  dose  radiation  in  CT  opportunities  and
+limitations  Diagn  Interv  Imaging  2019100634
+52 Ludes  C  Labani  A  Severac  F  Jeung  MY  Leyendecker  P  Roy  C  et  al  Ultra-low-
+dose  unenhanced  chest  CT  prospective  comparison  of  high  kVlow  mA  versus
+low kVhigh  mA  protocols  Diagn  Interv  Imaging  20191008593
+53  Jankowski  A  Martinelli  T  Timsit  JF  Brambilla  C  Thony  F  Coulomb  M
+et  al  Pulmonary  nodule  detection  on  MDCT  images  evaluation  of  diagnos-
+tic  performance  using  thin  axial  images  maximum  intensity  projections  and
+computer-assisted detection Eur  Radiol  200717314856
+54 Rubin  GD  Lyo  JK  Paik  DS  Sherbondy  AJ  Chow  LC  Leung  AN  et  al  Pulmonary
+nodules  on  multi-detector  row  CT  scans  performance  comparison  of  radiolo-
+gists  and  computer-aided  detection  Radiology  200523427483
+55 Zhao Y  de  Bock  GH  Vliegenthart  R  van  Klaveren  RJ  Wang  Y  Bogoni  L
+et al  Performance  of  computer-aided  detection  of  pulmonary  nodules  in
+low-dose  CT  comparison  with  double  reading  by  nodule  volume  Eur  Radiol
+201222207684
+56  Christe  A  Leidolt  L  Huber  A  Steiger  P  Szucs-Farkas  Z  Roos  JE  et  al  Lung  cancer
+screening with  CT  evaluation  of  radiologists  and  different  computer-assisted
+detection  software  CAD  as  first  and  second  readers  for  lung  nodule  detection
+at  different  dose  levels  Eur  J  Radiol  201382e8738
+57  Godoy  MCB  Kim  TJ  White  CS  Bogoni  L  de  Groot  P  Florin  C  et  al  Benefit  of
+computer-aided  detection  analysis  for  the  detection  of  subsolid  and  solid  lung
+nodules  on  thin-  and  thick-section  CT  Am  J  Roentgenol  20132007483
+58 Murphy  A  Skalski  M  Gaillard  F  The  utilisation  of  convolutional  neu-
+ral  networks  in  detecting  pulmonary  nodules  a  review  Br  J  Radiol
+2018912018002859  Oudkerk  M  Devaraj  A  Vliegenthart  R  Henzler  T  Prosch  H  Heussel  CP
+et  al  European  position  statement  on  lung  cancer  screening  Lancet  Oncol
+201718e75466
+60 Bankier  AA  MacMahon  H  Goo  JM  Rubin  GD  Schaefer-Prokop  CM  Naidich  DP
+Recommendations  for  measuring  pulmonary  nodules  at  CT  a  statement  from
+the  Fleischner  Society  Radiology  2017285584600
+61  Vlahos  I  Stefanidis  K  Sheard  S  Nair  A  Sayer  C  Moser  J  Lung  cancer
+screening  nodule identification and  characterization  Transl  Lung  Cancer  Res
+20187288303
+62  Naidich  DP  Bankier AA MacMahon  H  Schaefer-Prokop  CM  Pistolesi  M  Goo
+JM et  al  Recommendations  for  the  management  of  subsolid  pulmonary
+nodules detected at  CT  a  statement from the  Fleischner  Society  Radiology
+201326630417
+63  Walter  JE Heuvelmans MA  de  Jong PA Vliegenthart  R  van  Ooijen  PMA  Peters
+RB
+ et  al  Occurrence  and  lung  cancer  probability  of  new  solid  nodules  at  inci-
+dence screening with  low-dose  CT analysis of data from  the  randomised
+controlled
+ NELSON  trial  Lancet  Oncol  20161790716
+64  Walter  JE Heuvelmans MA  Ten  Haaf K Vliegenthart R van  der  Aalst  CM
+Yousaf-Khan
+ U  et  al  Persisting  new  nodules  in  incidence  rounds  of  the  NELSON
+CT lung  cancer  screening  study  Thorax  20197424753
+65  Horeweg  N  van  Rosmalen  J  Heuvelmans  MA  van  der  Aalst  CM  Vliegenthart
+R  Scholten  ET  et  al  Lung  cancer  probability  in  patients  with  CT-detected
+pulmonary  nodules  a  prespecified  analysis  of  data  from  the  NELSON  trial  of
+low-dose CT  screening  Lancet  Oncol  201415133241
+66  Kauczor  H-U  Baird  A-M  Blum  TG  Bonomo  L  Bostantzoglou  C  Burghuber
+O  et  al  ESRERS  statement  paper  on  lung  cancer  screening  Eur  Respir  J
+2020551900506
+67 Tanoue  LT  Tanner  NT  Gould  MK  Silvestri  GA  Lung  cancer  screening  Am  J
+Respir  Crit  Care  Med  20151911933
+68  Godoy  MCB  Naidich  DP  Subsolid  pulmonary  nodules  and  the  spectrum  of
+peripheral  adenocarcinomas  of  the  lung  recommended  interim  guidelines  for
+assessment and management  Radiology  200925360622
+69  Couraud  S  Greillier  L  Milleron  B  IFCT  Lung  Cancer  Screening  Group  Estimating
+overdiagnosis  in  lung  cancer  screening  JAMA  Intern  Med  20141741197
+70  Black  WC  Chiles  C  Church  TR  Gareen  IF  Gierada  DS  Mahon  I  et  al  Lung
+cancer incidence and mortality  with  extended  follow-up  in  the  national  lung
+screening trial  national  lung  screening  trial  writing  team  J  Thorac  Oncol  
+201914173242
+71  Callister  MEJ  Baldwin  DR  Akram  AR  Barnard  S  Cane  P  Draffan  J  et  al  British
+Thoracic Society guidelines  for  the  investigation  and  management  of  pul-
+monary nodules  Thorax  201570Suppl  2ii154
+72  Taghizadeh  N  Tremblay  A  Cressman  S  Peacock  S  McWilliams  AM  MacEachern
+P  et  al  Health-related  quality  of  life  and  anxiety  in  the  PAN-CAN  lung  cancer
+screening cohort BMJ Open  20199e024719
+73 Brain K  Lifford  KJ  Carter  B  Burke  O  McRonald  F  Devaraj  A  et  al  Long-term
+psychosocial  outcomes  of  low-dose  CT  screening  results  of  the  UK  Lung  Cancer
+Screening  randomised  controlled  trial  Thorax  2016719961005
+74 Freiman MR Clark  JA  Slatore  CG  Gould  MK  Woloshin  S  Schwartz  LM  et  al
+Patients  knowledge beliefs  and  distress  associated  with  detection  and  eval-
+uation  of  incidental  pulmonary  nodules  for  cancer  results  from  a  multicenter
+survey  J  Thorac  Oncol  20161157008
+75 Rasmussen JF  Siersma  V  Pedersen  JH  Brodersen  J  Psychosocial  consequences
+in  the  Danish  randomised  controlled  lung  cancer  screening  trial  DLCST  Lung
+Cancer  2015876572
+76  Slatore  CG  Sullivan  DR  Pappas  M  Humphrey  LL  Patient-centered  outcomes
+among  lung  cancer  screening  recipients  with  computed  tomography  a  sys-
+tematic  review  J  Thorac  Oncol  2014992734
+77  Gareen  IF  Duan  F  Greco  EM  Snyder  BS  Boiselle  PM  Park  ER  et  al  Impact
+of  lung  cancer  screening  results  on  participant  health-related  quality  of  life
+and  state  anxiety  in  the  National  Lung  Screening  Trial  Cancer  2014120
+34019
+78 Kanashiki  M  Tomizawa  T  Yamaguchi  I  Kurishima  K  Hizawa  N  Ishikawa  H
+et al  Volume  doubling  time  of  lung  cancers  detected  in  a  chest  radiograph  mass
+screening program comparison  with  CT  screening  Oncol  Lett  201245136
+79 Veronesi  G  Maisonneuve  P  Bellomi  M  Rampinelli  C  Durli  I  Bertolotti  R  et  al
+Estimating  overdiagnosis  in  low-dose  computed  tomography  screening  for
+lung  cancer  a  cohort  study  Ann  Intern  Med  201215777684
+80 Patz EF Pinsky  P  Gatsonis  C  Sicks  JD  Kramer  BS  Tammemagi  MC  et  al  Over-
+diagnosis in  low-dose  computed  tomography  screening  for  lung  cancer  JAMA
+Intern Med  201417426974
+81  Heleno  B  Siersma  V  Brodersen  J  Estimation  of  overdiagnosis  of  lung  cancer  in
+low-dose  computed  tomography  screening  a  secondary  analysis  of  the  Danish
+Lung  Cancer  Screening  Trial  JAMA  Intern  Med  201817814202
+82 Infante  M  Berghmans  T  Heuvelmans  MA  Hillerdal  G  Oudkerk  M  Slow-
+growing  lung  cancer  as  an  emerging  entity  from  screening  to  clinical
+management  Eur  Respir  J  201342170622
+83 Scholten ET  de  Jong  PA  de  Hoop  B  van  Klaveren  R  van  Amelsvoort-van  de
+Vorst  S  Oudkerk  M  et  al  Towards  a  close  computed  tomography  monitor-
+ing  approach  for  screen  detected  subsolid  pulmonary  nodules  Eur  Respir  J
+20154576573
+84  Walter  JE  Heuvelmans  MA  Yousaf-Khan  U  Dorrius  MD  Thunnissen  E  Scher-
+mann  A  et  al  New  subsolid  pulmonary  nodules  in  lung  cancer  screening  the
+NELSON Trial  J  Thorac  Oncol  20181314104
+85  Brenner  DJ  Hall  EJ  Computed  tomography  an  increasing  source  of  radiation
+exposure N  Engl  J  Med  2007357227784
+210S  Couraud  G  Ferretti  B  Milleron  et  al  Diagnostic  and  Interventional  Imaging  102  2021  199211
+86  Mascalchi  M  Mazzoni  LN  Falchini  M  Belli  G  Picozzi  G  Merlini  V  et  al  Dose
+exposure  in  the  ITALUNG  trial  of  lung  cancer  screening  with  low-dose  CT  Br  J
+Radiol  20128511349
+87 Brody  AS  Guillerman  RP  Dont  let  radiation  scare  trump  patient  care  10  ways
+you  can  harm  your  patients  by  fear  of  radiation-induced  cancer  from  diagnostic
+imaging  Thorax  2014697824
+88  Rojewski  AM  Tanner  NT  Dai  L  Ravenel  JG  Gebregziabher  M  Silvestri  GA
+et  al Tobacco dependence  predicts  higher  lung  cancer  and  mortality  rates  and
+lower rates  of  smoking  cessation  in  the  National  Lung  Screening  Trial  Chest
+20181541108
+89  Tanner  NT  Kanodra  NM  Gebregziabher  M  Payne  E  Halbert  CH  Warren  GW
+et al The  association  between  smoking abstinence and  mortality  in  the  National
+Lung Screening  Trial  Am  J  Respir  Crit  Care  Med  201619355344190  Tammemagi  MC  Berg  CD  Riley  TL  Cunningham  CR  Taylor  KL  Impact
+of  lung  cancer  screening  results  on  smoking  cessation  J  Natl  Cancer  Inst
+2014106dju084
+91 SFR-IA  Group  CERF  French  Radiology  Community  Artificial  intelligence  and
+medical  imaging  2018  French  Radiology  Community  white  paper  Diagn  Interv
+Imaging  20189972742
+92  Waymel  Q  Badr  S  Demondion  X  Cotten  A  Jacques  T  Impact  of  the  rise  of
+artificial  intelligence in radiology  what  do  radiologists  think  Diagn  Interv
+Imaging 201910032736
+211
+
+Cancer Informa tion in French
+Les informations suivantes de lAmerican Cancer Society sont disponibles en francais avec leur traduction en anglais V ous pouvez telecharger
+gratuitement ces documents PDF et les imprimer pour les partager avec vos patients ou vos proches
+Ces informations sont destinees aux personnes vivant aux Etats-Unis dont la langue principale peut etre autre que langlais Les facteurs de risque
+de cancer  les tests de depistage et les traitements peuvent varier dun pays a lautre
+The following American Cancer Society information is available in French along with their English translations These PDFs are free to download and
+print to share with your patients family  or loved ones 
+This information is intended for people living in the United States who may have a primary language other than English Cancer risk factors
+screening tests and treatments can vary from country to country  Informa tions sur le cancer en francais
+Detecter le cancer a un stade precoce tests de depistage  Find cancer early screening tests
+Passez vos tests 
+English Get Your Tests 
+Vous pouvez prevenir le cancer du col de luterus
+English You Can Prevent Cervical Cancer 
+Vous pouvez reduire le risque de cancer colorectal
+English You Can Help Prevent Colorectal Cancer 
+7 choses a savoir concernant la mammographie
+English 7 Things to Know about Getting a Mammogram 
+Analyses et interventions utilisees pour detecter et traiter le cancer de la peau
+English Tests and Procedures to Find and Treat Skin Cancer 
+Examiner votre peau pour detecter tout signe de cancer
+English Checking Your Skin for Signs of Cancer 
+Des poumons sains pour tous
+English Finding Lung Cancer Early 
+Le depistage du cancer de la prostate peut-il vous etre benefique 
+English Can Prostate Cancer Testing Benefit You
+7 choses a savoir concernant la coloscopie
+English 7 Things to Know About Getting a Colonoscopy 
+Cookie Policy
+This website uses cookies and related technology that help the website function and that help us understand how you interact with it You can manage
+these settings using the Data Sharing Settings link Privacy PolicyData Sharing Settings
+Reject All Cookies
+Accept All Cookies51625 223 PM Informations sur le cancer en francais  Cancer Information in French  American Cancer Society
+ 15Reduire votre risque de cancer prevention  Lower your cancer risk prevention
+Avis  V ous pouvez reduire votre risque de cancer 
+English You Can Help Reduce Your Cancer Risk 
+Reduire le risque de cancer en mangeant sain et en restant actif
+English Healthy Eating and Being Active Can Lower Your Cancer Risk 
+LE TABAC  Quest-ce que ca vous coute
+English Tobacco What is it costing you 
+Des poumons sains pour tous
+English Healthy Lungs for Everyone 
+Comment vous proteger et proteger votre famille contre le soleil
+English How to Protect Yourself and Your Family from the Sun 
+Cookie Policy
+This website uses cookies and related technology that help the website function and that help us understand how you interact with it You can manage
+these settings using the Data Sharing Settings link Privacy Policy51625 223 PM Informations sur le cancer en francais  Cancer Information in French  American Cancer Society
+ 25Types de cancer  Cancer types
+Apres un diagnostic de cancer du sein
+English After a Breast Cancer Diagnosis 
+Apres un diagnostic de cancer du col de luterus
+English After a Cervical Cancer Diagnosis 
+Apres un diagnostic de cancer colorectal
+English After a Colorectal Cancer Diagnosis 
+Apres un diagnostic du poumon
+English After a Lung Cancer Diagnosis 
+Apres un diagnostic de la prostate
+English After a Prostate Cancer Diagnosis 
+Questions sur le cancer de la peau a poser a votre equipe de soins
+English Questions to Ask Your Health Care Team about Skin Cancer 
+Vivre avec le cancer de la peau
+English Living with Skin Cancer 
+Apres un diagnostic de cancer de la vessie
+English After a Bladder Cancer Diagnosis 
+Apres un diagnostic de leucemie
+English After a Leukemia Diagnosis 
+Apres un diagnostic de cancer du rein
+English After a Kidney Cancer Diagnosis 
+Apres un diagnostic de lymphome
+English After a L ymphoma Diagnosis 
+Apres un diagnostic de cancer du pancreas
+English After a Pancreatic Cancer Diagnosis 
+Apres un diagnostic de cancer de la peau
+English After a Skin Cancer Diagnosis 
+Apres un diagnostic de cancer de lendometre
+English After an Endometrial Cancer Diagnosis 
+Traitements  Treatments
+Chirurgie du cancer
+English Surgery for Cancer 
+Radiotherapie du cancer
+English Radiation Therapy for Cancer 
+Chimiotherapie du cancer
+English Chemotherapy for Cancer 
+Immunotherapie du cancer
+English Immunotherapy for Cancer 
+Therapie ciblee du cancer
+English Targeted Drug Therapy for Cancer 
+Hormonotherapie du cancer
+English Hormone Therapy for Cancer 
+Les biosimilaires pour le traitement du cancer
+English Biosimilar Medicines for Cancer Cookie Policy
+This website uses cookies and related technology that help the website function and that help us understand how you interact with it You can manage
+these settings using the Data Sharing Settings link Privacy Policy51625 223 PM Informations sur le cancer en francais  Cancer Information in French  American Cancer Society
+ 35Traitements du cancer de la peau
+English Skin Cancer Treatments 
+Les essais cliniques
+English Clinical Trials
+Effets secondaires  Side effects
+Les ef fets secondaires de la radiotherapie
+English Radiation Therapy Side Ef fects 
+Que faire en cas de douleurs liees au cancer
+English What to Do for Cancer Pain 
+Que faire en cas de fatigue
+English What to Do for Fatigue 
+Que faire en cas de nausees et vomissements
+English What to Do for Nausea and V omiting 
+Que faire en cas de perte de cheveux
+English What to Do for Hair Loss 
+Que faire en cas de plaies buccales
+English What to Do for Mouth Sores 
+Que faire en cas de modifications cutanees
+English What to Do for Skin Changes 
+Que faire en cas de neuropathie peripherique
+English What to Do for Peripheral Neuropathy 
+Que faire en cas de diarrhee
+English What to Do for Diarrhea 
+Que faire en cas de detresse
+English What to Do for Distress 
+Que faire en cas de troubles du sommeil
+English What to Do for Sleep Problems 
+Que faire en cas de troubles de la memoire de la pensee et de la concentration
+English What to Do for Changes in Memory  Thinking and Focus 
+Que faire en cas de modifications des ongles
+English What to Do for Nail Changes 
+Que faire en cas de faibles taux sanguins
+English What to Do for Low Blood Counts 
+Cookie Policy
+This website uses cookies and related technology that help the website function and that help us understand how you interact with it You can manage
+these settings using the Data Sharing Settings link Privacy Policy51625 223 PM Informations sur le cancer en francais  Cancer Information in French  American Cancer Society
+ 45Vivre avec le cancer  Living with cancer
+Quest-ce que le cancer
+English What Is Cancer 
+Parler avec votre medecin
+English Talking With Your Doctor 
+Vos analyses de laboratoire
+English Your Lab Tests
+Biomarqueurs du cancer
+English Cancer Biomarkers 
+Assistance pour les patients les survivants et les soignants
+English Help for Patients Survivors and Caregivers 
+Le role de soignant
+English Being a Caregiver 
+Questions a poser sur votre cancer
+English Questions to Ask About Your Cancer 
+Immunization Action Coalition  
+National Comprehensive Cancer Network NCCN  
+Susan G Komen  Other Organizations
+The following organizations may provide additional information in French
+Cookie Policy
+This website uses cookies and related technology that help the website function and that help us understand how you interact with it You can manage
+these settings using the Data Sharing Settings link Privacy Policy51625 223 PM Informations sur le cancer en francais  Cancer Information in French  American Cancer Society
+ 55

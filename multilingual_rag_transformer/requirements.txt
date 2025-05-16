@@ -1,0 +1,23 @@
+# Core
+torch
+transformers
+sentence-transformers
+numpy
+scikit-learn
+
+#
+
+# Language Processing
+spacy
+langdetect
+nltk
+
+# Chunking Support
+tqdm
+
+# Pinecone or MongoDB (Choose based on your DB)
+pinecone  # Preferred
+# pymongo         # Uncomment if using MongoDB
+
+# Utility
+python-dotenv
