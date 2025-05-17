@@ -1,4 +1,4 @@
-PINECONE_API_KEY = "pcsk_4TJUMo_CTGUzsY4wXQBh7mn4bJHteQj832zUaJzywaD7KQCubtJAPbXVpb7S6A73Zttr82"
-PINECONE_ENV = "us-east1-gcp"
-PINECONE_INDEX_NAME = "distl-mbert-rag"
+PINECONE_API_KEY = "your  pinecone api key "
+PINECONE_ENV = "pinrcone enviremnet"
+PINECONE_INDEX_NAME = "index name "
 
