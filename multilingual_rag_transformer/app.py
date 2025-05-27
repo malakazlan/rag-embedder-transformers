@@ -5,8 +5,12 @@ from chunking.sentence_chunker import sentence_chunk
 from models.DistilmBERT_model import DistilmBERTEmbedder
 from models.mBERT_model import mBERTEmbedder
 from models.e5_model import E5Embedder
-from config import PINECONE_API_KEY,PINECONE_INDEX_NAME,PINECONE_ENV
+from config import PINECONE_API_KEY,PINECONE_INDEX_NAME,PINECONE_ENV, GOOGLE_GENAI_API_KEY, GOOGLE_GENAI_MODEL
 from vector_store.pinecone_store import PineconeStore
+from llm.prompt_templates import  build_rag_prompt
+from llm.ollama_engine import get_llm_response
+from llm.palm_engine import get_genai_response
+
 
 # def main():
 #     # Define the path to your PDF directory
@@ -145,12 +149,12 @@ from nltk import word_tokenize, pos_tag, ne_chunk
 def run_similarity_search():
     query = input("\n Enter your medical-related question:\n> ")
 
-    embedder = DistilmBERTEmbedder() 
+    embedder = E5Embedder() 
     store = PineconeStore(
         PINECONE_INDEX_NAME,
         PINECONE_API_KEY,
         PINECONE_ENV,
-        namespace="cancer_data"  # your latest namespace
+        namespace="medical_rag"  # your latest namespace
     )
 
     query_embedding = embedder.embed([f"query: {query}"])[0]
@@ -175,7 +179,41 @@ def run_similarity_search():
             print(f"→ Has Date: {metadata.get('has_date', False)}")
 
 
+def run_rag_chat():
+    query = input("\n Ask a question (multilingual supported):\n> ")
+    embedder = E5Embedder()
+    store = PineconeStore(PINECONE_INDEX_NAME, PINECONE_API_KEY, PINECONE_ENV,namespace="medical_rag")
 
+    query_embedding = embedder.embed([f"query: {query}"])[0]
+    
+#     filter_metadata = {
+#     "entities": {"$in": ["R. Brad Oates"]},
+#     "has_date": True
+# }
+
+    result = store.search(query_embedding, top_k=5)
+
+    if not result.get("matches"):
+        print("\nNo relevant chunks found for your query. Please try rephrasing your question or ask about a different topic.")
+        return
+
+    top_chunks = [match["metadata"]["text"] for match in result["matches"]]
+    print("\n Retrieved Chunks:")
+    for i, c in enumerate(top_chunks):
+        print(f"[{i+1}] {c[:200]}")
+
+    prompt = build_rag_prompt(query, top_chunks)
+    # print("\nPrompt Sent to LLM:\n")
+    # print(prompt)
+
+    llm_choice = input("\nChoose LLM engine: [1] Ollama (local) [2] Google GenAI (cloud)\n> ").strip()
+    if llm_choice == "2":
+        answer = get_genai_response(prompt, GOOGLE_GENAI_API_KEY, GOOGLE_GENAI_MODEL)
+    else:
+        answer = get_llm_response(prompt)
+
+    print("\n LLM Answer:")
+    print(answer)
 
 
 
@@ -188,3 +226,5 @@ if __name__ == "__main__":
     # embed_chunks_example()
     # push_to_pinecone()
     run_similarity_search()
+    run_rag_chat()
+    

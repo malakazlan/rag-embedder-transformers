@@ -21,3 +21,5 @@ pinecone  # Preferred
 
 # Utility
 python-dotenv
+# Add Google GenAI
+google-generativeai
